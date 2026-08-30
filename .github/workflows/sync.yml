@@ -1,0 +1,125 @@
+name: Sync ransomware intel
+
+# Snapshots the ThreatCluster dark-web feeds into this repo so git history
+# becomes a timestamped record: "when was this victim first listed?" and "when
+# did this leak site go dark?" are a `git log -p` away, which neither the live
+# API nor a static URL can answer.
+#
+# Runs from GitHub, not from ThreatCluster's infrastructure, on purpose — an
+# upstream outage leaves the last good snapshot intact instead of emptying
+# the files. Every fetch is size-checked and written via a temp file so a
+# truncated download or an error page can never overwrite a good copy.
+
+on:
+  schedule:
+    # 06:40 UTC daily, offset from the hour because GitHub's scheduler queues
+    # heavily on :00 and jobs get delayed or dropped.
+    - cron: '40 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-ransomware-intel
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch feeds
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          BASE="https://threatcluster.io/api/darkweb/public"
+          UA="Ransomware-Intel-Sync/1.0 (+https://github.com/Jam0k/Ransomware-Intel)"
+          fetch() {
+            local src="$1" dest="$2" min="$3"
+            echo "fetching $src"
+            if ! curl -sS --fail --max-time 120 --retry 3 --retry-delay 10 -A "$UA" \
+                 "$BASE/$src" -o "$dest.tmp"; then
+              echo "::error::$src fetch failed — keeping previous snapshot"
+              rm -f "$dest.tmp"; exit 1
+            fi
+            local size; size=$(wc -c < "$dest.tmp")
+            if [ "$size" -lt "$min" ]; then
+              echo "::error::$src returned $size bytes (minimum $min) — refusing to overwrite"
+              rm -f "$dest.tmp"; exit 1
+            fi
+            # An API error body is JSON; a CSV never starts with '{'.
+            case "$dest" in *.csv)
+              if head -c 1 "$dest.tmp" | grep -q '{'; then
+                echo "::error::$src returned an error body, not CSV"; rm -f "$dest.tmp"; exit 1
+              fi;;
+            esac
+            mv "$dest.tmp" "$dest"
+          }
+
+          fetch "victims.csv?days=90"   data/victims.csv        4096
+          fetch "victims.csv?days=365"  data/victims-365d.csv   4096
+          fetch "victims.json?days=30"  data/victims.json       4096
+          fetch "groups.csv"            data/groups.csv         2048
+          fetch "onions.csv"            data/onions.csv         4096
+
+          # Stats for the README block. Not a feed file.
+          curl -sS --fail --max-time 60 -A "$UA" https://threatcluster.io/api/darkweb/stats \
+            -o data/stats.json
+
+      - name: Derive first-party subset
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          # Rows ThreatCluster read off the leak site itself, as opposed to
+          # rows imported from an aggregator. This is the file that does not
+          # exist anywhere else, so it gets its own name.
+          import csv, pathlib
+          src = list(csv.DictReader(open('data/victims-365d.csv', newline='', encoding='utf-8')))
+          fp  = [r for r in src if (r.get('first_party') or '').strip().lower() == 'yes']
+          with open('data/victims-firstparty.csv', 'w', newline='', encoding='utf-8') as f:
+              w = csv.DictWriter(f, fieldnames=src[0].keys() if src else [])
+              w.writeheader(); w.writerows(fp)
+          print(f'{len(fp)} first-party rows of {len(src)}')
+          PY
+
+      - name: Update README stats
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import csv, json, re, pathlib, datetime
+          st = json.loads(pathlib.Path('data/stats.json').read_text())
+          n = lambda p: max(0, sum(1 for _ in open(p, encoding='utf-8')) - 1)
+          v90, v365, fp = n('data/victims.csv'), n('data/victims-365d.csv'), n('data/victims-firstparty.csv')
+          on = list(csv.DictReader(open('data/onions.csv', encoding='utf-8')))
+          up = sum(1 for r in on if r.get('reachability') == 'up')
+          block = (
+              "<!--STATS-->\n"
+              f"_Last updated: {datetime.datetime.utcnow():%Y-%m-%d %H:%M} UTC_\n\n"
+              f"| | |\n|---|---|\n"
+              f"| Ransomware groups tracked | **{st.get('ransomware_groups', 0):,}** |\n"
+              f"| Victims, last 90 days | **{v90:,}** |\n"
+              f"| Victims, last 365 days | **{v365:,}** |\n"
+              f"| Victims read first-hand from leak sites | **{fp:,}** |\n"
+              f"| Onion addresses catalogued | **{len(on):,}** ({up} confirmed up at last probe) |\n"
+              f"| Known data breaches | **{st.get('breaches_known', 0):,}** |\n"
+              "<!--/STATS-->"
+          )
+          p = pathlib.Path('README.md'); md = p.read_text()
+          md = re.sub(r'<!--STATS-->.*?<!--/STATS-->', block, md, flags=re.S)
+          p.write_text(md)
+          PY
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "threatcluster-bot"
+          git config user.email "hello@threatcluster.io"
+          git add data README.md
+          # Only commit on a real change — a daily empty commit would make
+          # `git log` useless for "when did this victim first appear?".
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          V=$(($(wc -l < data/victims.csv) - 1))
+          git commit -m "data: ${V} victims in 90d window ($(date -u +%Y-%m-%d))"
+          git push
