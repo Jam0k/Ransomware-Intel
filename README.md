@@ -7,14 +7,14 @@ history is a timestamped record.
 **TLP:CLEAR** — free to use, redistribute, and integrate. Attribution appreciated.
 
 <!--STATS-->
-_Last updated: 2026-08-30 14:25 UTC_
+_Last updated: 2026-08-30 15:29 UTC_
 
 | | |
 |---|---|
 | Ransomware groups tracked | **158** |
-| Victims, last 90 days | **2,852** |
-| Victims, last 365 days | **9,205** |
-| Victims read first-hand from leak sites | **697** |
+| Victims, last 90 days | **2,851** |
+| Victims, last 365 days | **9,207** |
+| Victims read first-hand from leak sites | **698** |
 | Onion addresses catalogued | **1,682** (78 confirmed up at last probe) |
 | Known data breaches | **1,032** |
 <!--/STATS-->
@@ -250,6 +250,7 @@ _158 active groups; top 150 by claimed victims._
 | [blackfield](https://threatcluster.io/dark-web/group/blackfield) | 2 | 0 |  |
 | [bluewhale](https://threatcluster.io/dark-web/group/bluewhale) | 2 | 0 |  |
 | [cry0](https://threatcluster.io/dark-web/group/cry0) | 2 | 0 | 2026-08-06 |
+| [falcon](https://threatcluster.io/dark-web/group/falcon) | 2 | 1 |  |
 | [redact](https://threatcluster.io/dark-web/group/redact) | 2 | 1 |  |
 | [sensayq](https://threatcluster.io/dark-web/group/sensayq) | 2 | 0 | 2024-06-04 |
 | [the green blood group](https://threatcluster.io/dark-web/group/the%20green%20blood%20group) | 2 | 0 |  |
@@ -266,7 +267,6 @@ _158 active groups; top 150 by claimed victims._
 | [darkmatter](https://threatcluster.io/dark-web/group/darkmatter) | 0 | 0 |  |
 | [datakeeper](https://threatcluster.io/dark-web/group/datakeeper) | 0 | 0 | 2026-04-22 |
 | [dread](https://threatcluster.io/dark-web/group/dread) | 0 | 0 | 2026-04-22 |
-| [falcon](https://threatcluster.io/dark-web/group/falcon) | 0 | 1 |  |
 | [goddamn ransomwhere](https://threatcluster.io/dark-web/group/goddamn%20ransomwhere) | 0 | 0 |  |
 | [lockbit3_fs](https://threatcluster.io/dark-web/group/lockbit3_fs) | 0 | 0 | 2026-04-22 |
 | [meowciety403](https://threatcluster.io/dark-web/group/meowciety403) | 0 | 3 |  |

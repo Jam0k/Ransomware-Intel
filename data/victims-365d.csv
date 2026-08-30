@@ -1,4 +1,6 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,data_size,file_count,publication_status,leak_url,first_party
+falcon,Globus Medical,US,Healthcare,2026-08-30,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion/#GlobusMedical,listed,,2.38 TB compressed Â· 2.96 TB uncompressed,,published,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion,yes
+falcon,DistributionNOW (DNOW Inc.),US,Manufacturing,2026-08-30,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion/#distribution_now,listed,,,,,,no
 qilin,Crystalpharmatech,,Healthcare,2026-08-30,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9cc2365a-5fb6-4668-a614-7e65684bb18b,listed,,,,,,no
 qilin,Absolute Consultancy Services,GB,Professional Services,2026-08-30,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=633d975c-e73f-462e-95fb-a372b53b600a,listed,,,,,,no
 qilin,Black Cat Engineering Construction Wll,QA,Manufacturing,2026-08-30,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9b7d483d-aaa7-4da7-8724-a96e7005d141,listed,,,,,,no
@@ -20,7 +22,7 @@ thegentlemen,Exacta Optech Labcenter,BR,Healthcare,2026-08-30,http://tezwsse5czl
 thegentlemen,Servicios Aereos Estrella,MX,Transportation,2026-08-30,http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion,listed,,,,,,no
 zawoo,zenithtechnology,NZ,Technology,2026-08-30,https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion/index.html?indexId=mtfszhtggfdsg,listed,,,,,,no
 zawoo,fessport,DE,,2026-08-30,https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion/index.html?indexId=htrfdrghbtnyr,listed,,,,,,no
-zawoo,esopartnerscpa,US,Professional Services,2026-08-30,https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion/index.html?indexId=vrfdeyhnbyuki,listed,,,,,,no
+zawoo,esopartnerscpa,CN,Professional Services,2026-08-30,https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion/index.html?indexId=vrfdeyhnbyuki,listed,,,,,,no
 zawoo,vectorsoft.de,DE,Technology,2026-08-30,https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion/index.html?indexId=mocxosdpjsdpg,listed,,,,,,no
 zawoo,winterdienst-berlin.com,DE,Other,2026-08-30,https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion/index.html?indexId=vhrtnmuykyuko,listed,,,,,,no
 zawoo,hd-werkstaetten.de,DE,Manufacturing,2026-08-30,https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion/index.html?indexId=ptievcdnmksdn,listed,,,,,,no
@@ -1134,8 +1136,8 @@ krybit,www.buzztrading104.co.za,ZA,Financial Services,2026-08-02,http://krybitqs
 qilin,Wire Products,US,Manufacturing,2026-08-02,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e529c84d-7dce-4795-b526-693855deb497,listed,,,,,,no
 crpxo,"Encore Enterprises, Inc.",US,Other,2026-08-02,http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/victim.php?slug=encore-bz,listed,,,,,,no
 shinyhunters,Questel SAS,FR,,2026-08-02,http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion,listed,,,,,,no
-shinyhunters,Lumenis Ltd.,IL,Technology,2026-08-02,http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion,listed,,,,,,no
 shinyhunters,Alcon Inc.,CH,Healthcare,2026-08-02,http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion,listed,,,,,,no
+shinyhunters,Lumenis Ltd.,IL,Technology,2026-08-02,http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion,listed,,,,,,no
 thegentlemen,Philippine Savings Bank,PH,Financial Services,2026-08-01,http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion,listed,,,,,,no
 play,The Butcher Brothers,US,Retail & E-Commerce,2026-08-01,http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=UTCN61lDez9A3,listed,,,,,,no
 play,Sigma Plastics Group,US,Manufacturing,2026-08-01,http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=1HEHCI7eOmQZS,listed,,,,,,no
@@ -4425,8 +4427,8 @@ qilin,Yuma Sun,US,,2026-03-11,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbc
 qilin,Composition Systems,,,2026-03-11,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=e5a11423-fc09-333d-972e-7cdbdd79d461,listed,,,,,,no
 qilin,Retamar,,,2026-03-11,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=de187625-6c88-3d1f-b97c-02e42f9a2351,listed,,,,,,no
 bravox,UMBERG TREUHAND AG,CH,,2026-03-11,http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion/blog/a25f4a62-4dc0-4ebe-aef8-d10d2e1fd5e4,listed,,,,,,no
-dragonforce,[Redacted] Takedown Notice #2054,AU,Agriculture and Food Production,2026-03-11,,listed,,,,,,no
 dragonforce,hazeldenes.com.au,AU,Agriculture and Food Production,2026-03-11,http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=a5feaa9f-4cea-430d-8734-56905ba21607,listed,,,,,,no
+dragonforce,[Redacted] Takedown Notice #2054,AU,Agriculture and Food Production,2026-03-11,,listed,,,,,,no
 interlock,Elliott-Lewis,US,Construction,2026-03-11,http://x2ol75zago3z2nrp7lnmbcwoq3okiexuwi456oe6jqurbprg6lljz3yd.onion/index.php?p=,listed,,1 070 GB,,listed,http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/leaks.php,yes
 coinbasecartel,JBS Brazil - We have 3TB of your data - Pics added,BR,Agriculture and Food Production,2026-03-11,http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/jbs,listed,,,,,,no
 thegentlemen,Docaret,FR,,2026-03-11,http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion,listed,,,,,,no

@@ -285,6 +285,7 @@ blackfield,,yes,,,2,,,,0,0
 bluewhale,,yes,,,2,,,,0,0
 cry0,,yes,2026-03-30,2026-08-06,2,,,,0,0
 cryptnet,,no,2023-04-19,2023-04-19,2,,,,0,0
+falcon,Falcon,yes,,,2,en,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/falcon/20260830T033253Z.png,1,1
 kittykatkrew,,no,2026-02-23,2026-02-25,2,,,,0,0
 lunalock,,no,2025-09-02,2025-09-13,2,,,,0,0
 nightsky,,no,2022-01-04,2022-01-04,2,,,,0,0
@@ -341,7 +342,6 @@ entropy,,no,,,0,,,,0,0
 ep918,,no,,,0,,,,0,0
 esxiargs,,no,,,0,,,,0,0
 exorcist,,no,,,0,,,,0,0
-falcon,Falcon,yes,,,0,en,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/falcon/20260830T033253Z.png,1,1
 fletchen,,no,2026-01-03,2026-01-24,0,,,,0,0
 fsteam,,no,,,0,,,,0,0
 goddamn ransomwhere,,yes,,,0,,,,0,0
