@@ -106,8 +106,25 @@ jobs:
               f"| Known data breaches | **{st.get('breaches_known', 0):,}** |\n"
               "<!--/STATS-->"
           )
+          # Groups table: one row per active group, linking its ThreatCluster
+          # page. The README used to link only the /dark-web hub; a crawler
+          # reading this repo now has a path to every group page.
+          from urllib.parse import quote
+          gs = list(csv.DictReader(open('data/groups.csv', encoding='utf-8')))
+          gs = [g for g in gs if (g.get('active') or '').lower() == 'yes']
+          gs.sort(key=lambda g: -int(g.get('victim_count') or 0))
+          rows = "\n".join(
+              f"| [{g['group']}](https://threatcluster.io/dark-web/group/{quote(g['group'], safe='')}) "
+              f"| {int(g.get('victim_count') or 0):,} | {int(g.get('first_party_victims') or 0):,} "
+              f"| {g.get('last_seen') or ''} |"
+              for g in gs[:150])
+          gblock = ("<!--GROUPS-->\n"
+                    f"_{len(gs)} active groups; top 150 by claimed victims._\n\n"
+                    "| Group | Claimed victims | Read first-hand | Last seen |\n|---|---:|---:|---|\n"
+                    + rows + "\n<!--/GROUPS-->")
           p = pathlib.Path('README.md'); md = p.read_text()
           md = re.sub(r'<!--STATS-->.*?<!--/STATS-->', block, md, flags=re.S)
+          md = re.sub(r'<!--GROUPS-->.*?<!--/GROUPS-->', gblock, md, flags=re.S)
           p.write_text(md)
           PY
 
