@@ -7,15 +7,15 @@ history is a timestamped record.
 **TLP:CLEAR** — free to use, redistribute, and integrate. Attribution appreciated.
 
 <!--STATS-->
-_Last updated: 2026-09-03 06:53 UTC_
+_Last updated: 2026-09-03 09:32 UTC_
 
 | | |
 |---|---|
 | Ransomware groups tracked | **161** |
-| Victims, last 90 days | **2,886** |
-| Victims, last 365 days | **9,277** |
+| Victims, last 90 days | **2,892** |
+| Victims, last 365 days | **9,285** |
 | Victims read first-hand from leak sites | **822** |
-| Onion addresses catalogued | **1,692** (41 confirmed up at last probe) |
+| Onion addresses catalogued | **1,692** (55 confirmed up at last probe) |
 | Known data breaches | **1,034** |
 <!--/STATS-->
 
@@ -186,6 +186,7 @@ _161 active groups; top 150 by claimed victims._
 | [settra](https://threatcluster.io/dark-web/group/settra) | 55 | 0 | 2026-08-27 |
 | [gunra](https://threatcluster.io/dark-web/group/gunra) | 52 | 0 | 2026-08-18 |
 | [ailock](https://threatcluster.io/dark-web/group/ailock) | 51 | 54 | 2026-08-26 |
+| [storm](https://threatcluster.io/dark-web/group/storm) | 49 | 0 |  |
 | [termite](https://threatcluster.io/dark-web/group/termite) | 49 | 42 | 2026-08-13 |
 | [crypto24](https://threatcluster.io/dark-web/group/crypto24) | 47 | 6 | 2026-08-31 |
 | [insomnia](https://threatcluster.io/dark-web/group/insomnia) | 47 | 42 | 2026-09-02 |
@@ -195,7 +196,6 @@ _161 active groups; top 150 by claimed victims._
 | [cmdorganization](https://threatcluster.io/dark-web/group/cmdorganization) | 43 | 3 | 2026-07-31 |
 | [securotrop](https://threatcluster.io/dark-web/group/securotrop) | 42 | 37 | 2026-08-18 |
 | [j](https://threatcluster.io/dark-web/group/j) | 41 | 0 | 2025-11-01 |
-| [storm](https://threatcluster.io/dark-web/group/storm) | 41 | 0 |  |
 | [embargo](https://threatcluster.io/dark-web/group/embargo) | 40 | 11 | 2026-06-30 |
 | [metaencryptor](https://threatcluster.io/dark-web/group/metaencryptor) | 38 | 35 | 2026-08-23 |
 | [crpxo](https://threatcluster.io/dark-web/group/crpxo) | 37 | 0 |  |
