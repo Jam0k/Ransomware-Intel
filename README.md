@@ -25,9 +25,15 @@ _Last updated: 2026-09-03 06:53 UTC_
 
 Most public ransomware-victim datasets on GitHub stopped updating years ago, and the ones still
 alive republish the same aggregator rows as each other. This one is different in one specific way:
-**a growing share of it is read directly off the leak sites by our own crawler** — claimed data
-size, file counts, publication status, the ransom note, and the exact `.onion` URL the claim came
-from. Those rows are marked `first_party=yes` and have no equivalent elsewhere.
+**a growing share of it is read directly off the leak sites by our own crawler**, not imported
+from an aggregator. Those rows are marked `first_party=yes` and have no equivalent elsewhere.
+
+What this repo holds is the **listing**: who was named, by which group, when, and whether the post
+is still up. What our crawler extracts from each post (claimed data size, file counts, publication
+and negotiation state, the ransom figure, the victim's legal name and headquarters, our own summary
+and screenshot) is the enriched record, and that lives in the
+[API](https://threatcluster.io/api) rather than in these files. See
+[Enriched records](#enriched-records) below.
 
 Everything is **the group's claim, not a confirmed breach.** Treat it as such.
 
@@ -43,7 +49,7 @@ a victim first appeared, when a post was delisted, or when a leak site went dark
 | [`data/victims.csv`](data/victims.csv) | Victims listed in the last **90 days** |
 | [`data/victims-365d.csv`](data/victims-365d.csv) | Victims listed in the last **365 days** |
 | [`data/victims-firstparty.csv`](data/victims-firstparty.csv) | **Only the rows we read off the leak site ourselves** (365 days) |
-| [`data/victims.json`](data/victims.json) | Last 30 days with the full enrichment fields (legal name, HQ, revenue, ransom amount, data categories, analyst summary) |
+| [`data/victims.json`](data/victims.json) | Last 30 days as JSON, same fields as the CSV (plus `website` where known) |
 | [`data/groups.csv`](data/groups.csv) | Every extortion group tracked: activity window, claimed-victim count, how many we verified first-hand, mirrors currently up |
 | [`data/onions.csv`](data/onions.csv) | Leak-site and underground `.onion` addresses, with our own up/down probe result |
 
@@ -65,7 +71,7 @@ curl https://threatcluster.io/api/darkweb/public/victims.csv
 # Same, full year
 curl "https://threatcluster.io/api/darkweb/public/victims.csv?days=365"
 
-# Victims with enrichment (JSON, 30 days)
+# Same, JSON, 30 days
 curl https://threatcluster.io/api/darkweb/public/victims.json
 
 # Groups and onion infrastructure
@@ -93,15 +99,26 @@ All endpoints are unauthenticated and rate-limited to 60 requests/minute.
 | `post_url` | The leak-site post |
 | `status` | `listed` or `delisted` — see below |
 | `delisted_date` | When the post stopped being reachable |
-| `data_size` | Volume the group **claims** to hold, verbatim from the page (`4.6TB`, `151.0 MB`) |
-| `file_count` | File count the group claims |
-| `publication_status` | `listed` · `countdown` · `published` · `negotiating` · `sold` — normalised from the site's own wording |
-| `leak_url` | The `.onion` page our crawler read this from |
 | `first_party` | `yes` if the row was read off the leak site by ThreatCluster; `no` if imported from an aggregator |
 
-`victims.json` adds, where the leak page states them: `website`, `legal_name`, `headquarters`,
-`revenue`, `employee_count`, `ransom_amount`, `data_categories`, and `summary` — a short analyst
-summary generated only from what we collected, never from third-party blurbs.
+`victims.json` carries the same columns, plus `website` where the leak page states it.
+
+### Enriched records
+
+Everything our crawler extracts from the post itself is in the API, one call per victim:
+
+```bash
+curl -H "X-API-Key: $TC_KEY" \
+  "https://threatcluster.io/api/public/v1/darkweb/ransomware/victim/{id}"
+```
+
+That record carries the claimed data size and file count, publication and negotiation state
+(`listed` · `countdown` · `published` · `negotiating` · `sold`, normalised from the site's own
+wording), the ransom figure, the `.onion` page it was read from, the victim's legal name,
+headquarters, revenue and employee count, extracted data categories, our screenshot, and a short
+summary generated only from what we collected. It costs 10 credits; a free key is minted on every
+account with 100 credits a day, no card. `/api/public/v1/darkweb/ransomware/victims` lists victims
+with the same filters as the CSV. Quick start: https://threatcluster.io/api
 
 **`status=delisted`** means the post is no longer reachable on the leak site. It is an
 observation, not a claim that a ransom was paid — groups remove posts for their own reasons.
@@ -315,8 +332,8 @@ the operators advertise themselves; nothing here is a credential or an access ro
 - **Claims, not confirmations.** A listing means a group *said* it breached an organisation.
 - **Names are as the group wrote them**, including typos and stylisation. Match on `website`
   where present rather than on `victim`.
-- **Sizes are verbatim.** `0.00 GB` alongside a large `file_count` is the group's page being
-  wrong, faithfully recorded; we don't correct it.
+- **Claimed sizes are verbatim** in the API record. `0.00 GB` alongside a large file count is
+  the group's page being wrong, faithfully recorded; we don't correct it.
 - **Screenshots are ours** — captured by our crawler with faces blurred. No third-party images
   are redistributed.
 
@@ -331,4 +348,4 @@ Listed in error, or an organisation that wants its entry reviewed:
 
 - Browse: [threatcluster.io/dark-web](https://threatcluster.io/dark-web)
 - IOC feeds (domains, IPs, hashes, wallets): [Public-Feeds-IOCs](https://github.com/Jam0k/Public-Feeds-IOCs)
-- Full API: [threatcluster.io/developers](https://threatcluster.io/developers)
+- API quick start: [threatcluster.io/api](https://threatcluster.io/api) · client and examples: [Cyber-Threat-Intelligence-API](https://github.com/Jam0k/Cyber-Threat-Intelligence-API)

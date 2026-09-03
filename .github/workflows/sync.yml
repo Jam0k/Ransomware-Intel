@@ -60,6 +60,7 @@ jobs:
 
           fetch "victims.csv?days=90"   data/victims.csv        4096
           fetch "victims.csv?days=365"  data/victims-365d.csv   4096
+          # Listing fields only: the enriched record is the keyed API (2026-09-03).
           fetch "victims.json?days=30"  data/victims.json       4096
           fetch "groups.csv"            data/groups.csv         2048
           fetch "onions.csv"            data/onions.csv         4096
