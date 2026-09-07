@@ -1,4 +1,6 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+pear,EdgeChem Jamaica Limited,JM,Manufacturing,2026-09-05,http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion/Companies/edgechem,listed,,yes
+pear,Kovo Healthtech Corp,US,Healthcare,2026-09-05,http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion/Companies/kovoplus,listed,,yes
 spacebears,"D-MAX Engineering, Inc",US,Manufacturing,2026-09-05,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/76/d-max-engineering-inc,listed,,yes
 emperador,Judicial Branch of the Province of Jujuy,AR,Government & Defense,2026-09-05,/post/judicial-branch-of-the-province-of-jujuy/,listed,,yes
 spacebears,Sports Endeavors,US,Retail & E-Commerce,2026-09-04,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/75/sports-endeavors,listed,,yes
@@ -12,7 +14,7 @@ qilin,Tanner,CL,Other,2026-09-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4m
 spacebears,"Schwartz, Giannini, Lantsberger & Adamson (SGLA)",US,Professional Services,2026-09-04,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/74/schwartz-giannini-lantsberger-adamson-sgla,listed,,yes
 spacebears,Studio Oculistico Ciraci,IT,Healthcare,2026-09-03,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/73/studio-oculistico-ciraci,listed,,yes
 insomnia,"Maglin, Miskiv & Associates",US,Professional Services,2026-09-03,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/MnM/,listed,,yes
-kairos,Ville de Libercourt,FR,Government & Defense,2026-09-02,http://erqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion,listed,,yes
+kairos,Ville de Libercourt,FR,Government & Defense,2026-09-02,http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion,listed,,yes
 insomnia,N***************,US,,2026-09-02,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Announce/,listed,,yes
 eclipse,part1.simplexengg.in,IN,Technology,2026-09-02,http://yecdjimqiaekprxza6wkqecma4bwt757qiyfjngsaxg7rkjv4xukpwad.onion/data/part1.simplexengg.in/,listed,,yes
 qilin,Uak University,TR,Education,2026-09-02,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=759965bf-44b5-4772-93e8-cbd8e8be702b,listed,,yes
@@ -507,6 +509,7 @@ everest,AKM,JP,,2026-05-28,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexf
 everest,TransferZ,US,Transportation/Logistics,2026-05-28,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/TransferZ/,listed,,yes
 everest,L&P Aesthetics,US,Healthcare,2026-05-28,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/L_P_Aesthetics/,listed,,yes
 spacebears,Ridge Law Firm,US,Business Services,2026-05-27,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/44/ridge-law-firm,listed,,yes
+krybit,ctps.tp.edu.tw,TW,Education,2026-05-26,http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/b4a7f8a258b93ba3de493134d47355ffb5b1247dc32f06d17d036c2fab17c457/,listed,,yes
 spacebears,Filabé,CH,Agriculture and Food Production,2026-05-26,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/42/filabe,listed,,yes
 spacebears,BASE SPA,IT,Business Services,2026-05-26,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/41/base-spa,listed,,yes
 ailock,"Artso International, Inc.",TW,Business Services,2026-05-24,http://dhnsppqjaaa22lsqxl2tfhji4ca43743kubltnodvsft3hkvai77p6ad.onion,listed,,yes
@@ -771,8 +774,10 @@ everest,Air Arabia,AE,Transportation/Logistics,2025-10-25,http://ransomocmou6mnb
 everest,Svenska Kraftnät,SE,Energy,2025-10-25,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/svk,listed,,yes
 beast,Danthi Comunicacao Integrada,BR,,2025-10-24,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/danthi_comunicacao_integrada,listed,,yes
 killsec,National Institute of Administratio...,RO,Education,2025-10-23,,listed,,yes
+killsec,Badger Popcorn And Concession Suppl...,US,Agriculture and Food Production,2025-10-23,,listed,,yes
 killsec,Economy Restaurant Equipment And Su...,US,Hospitality and Tourism,2025-10-23,,listed,,yes
 killsec,J AND S Electrical And Lighting Sup...,US,Manufacturing,2025-10-23,,listed,,yes
+killsec,FAAB Invest Advisors Private Limite...,IN,Financial Services,2025-10-23,,listed,,yes
 killsec,"DUC App: Global Money Movement, Sim...",CA,Technology,2025-10-23,,listed,,yes
 killsec,iCare Software,US,Technology,2025-10-23,,listed,,yes
 embargo,ACTi.com,TW,Technology,2025-10-22,http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion/#/post/7e0fe038-1185-4f6e-9a51-e43e56889e20,listed,,yes
@@ -840,10 +845,3 @@ killsec,Nathan And Nathan,AE,,2025-09-09,http://ks5424y3wpr5zlug5c7i6svvxweinhbd
 everest,Easy Credit,,Financial Services,2025-09-08,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Easy_Credit,listed,,yes
 securotrop,VRE Systems,CA,Manufacturing,2025-09-08,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 securotrop,Controlled Combustion,US,Manufacturing,2025-09-08,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
-killsec,GPS Trackit,US,Technology,2025-09-07,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=AYyZ4suEWKGRH0MCaubbHQbO,listed,,yes
-killsec,Archer Health,US,Healthcare,2025-09-07,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=Uf9MI7G9HFRDnZ21X8RR75Bc,listed,,yes
-beast,BinBaires,AR,,2025-09-06,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/binbaires,listed,,yes
-killsec,Suiza Lab,PE,Healthcare,2025-09-06,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=TZ9ihM6cU9Hs6asng7Kah7Eq,listed,,yes
-killsec,eMedicoERP,IN,Technology,2025-09-06,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php/posts.php?pid=jUAueZigjrYI1iYhbNB4pZA5,listed,,yes
-killsec,GoTelemedicina,CO,Healthcare,2025-09-06,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=XA8vdNbZ6RQiEBqY3ViIe9iU,listed,,yes
-killsec,MedicSolution+,BR,Healthcare,2025-09-06,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=m0aEokwi733tnFZzfJj2pMvM,listed,,yes
