@@ -1,4 +1,17 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+global secret group,Mesan USA,US,Other,2026-09-09,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/SyR7gg8M68RCbyjA/,listed,,yes
+qilin,"Mitsuwa Trading Co., Ltd",JP,Retail & E-Commerce,2026-09-09,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=84596ac3-df07-4e54-9c58-c25effad7e42,listed,,yes
+incransom,cullottalaw.com,US,Professional Services,2026-09-09,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6aa1b4799cd108bf26fb4634,listed,,yes
+auditteam,dg***kr,KR,,2026-09-09,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/E412B2E7E3ED1A93,listed,,yes
+auditteam,go***et,KR,Technology,2026-09-09,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/484EC15733A3F216,listed,,yes
+auditteam,kr***rg,AR,,2026-09-09,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/CE33F39DA84768CA,listed,,yes
+vexy ransomware,Logar Network Solutions,BR,Technology,2026-09-09,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
+incransom,https://mediengruppethiel.de/,DE,Other,2026-09-09,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6aa15b3d9cd108bf26f1a91f,listed,,yes
+emperador,Bosnia and Herzegovina Mine Action Center,BA,Government & Defense,2026-09-09,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/bosnia-and-herzegovina-mine-action-center/,listed,,yes
+dark project,Specchem LLC,US,Manufacturing,2026-09-09,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=specchem-llc,listed,,yes
+qilin,Jet Specialty,US,Manufacturing,2026-09-09,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=503493c0-dba3-40f5-89ff-e0c9c0619fbf,listed,,yes
+emperador,Universal Starch-Chem Allied Ltd,IN,Manufacturing,2026-09-09,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/universal-starch-chem-allied-ltd/,listed,,yes
+emperador,BAYMER,,Manufacturing,2026-09-09,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/baymer/,listed,,yes
 safepay,palmettoeyeinstitute.com,US,Healthcare,2026-09-08,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/palmettoeyeinstitutecom/,listed,,yes
 safepay,reichenau.at,AT,Other,2026-09-08,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/reichenauat/,listed,,yes
 safepay,cannonpuntana.com,AR,,2026-09-08,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/cannonpuntanacom/,listed,,yes
@@ -24,7 +37,11 @@ everest,KÖRBER,DE,Manufacturing,2026-09-07,http://everestndkvzcibcje2cqxhre2hmm
 everest,GENESILICO,IT,Technology,2026-09-07,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/genesilico,listed,,yes
 aurora,Jinny Beauty Supply,US,Retail & E-Commerce,2026-09-07,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/jinny-beauty-supply-4926057b,listed,,yes
 aurora,"Benshaw, Inc.",US,Manufacturing,2026-09-07,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/benshaw-inc-a8850418,listed,,yes
+metaencryptor,EllisDon Corporation,CA,Professional Services,2026-09-07,https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:bead937c43afb39ae1c4ef93551c5a8e4bd2d2dba46039a1709fbd37ae559ef3/0AFC:5eff5080842967d18c801243d2ee0e972875323cf93e8efa5e1c5d3156323f09,listed,,yes
 qilin,Jbc,ES,,2026-09-07,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c2e31628-1690-4103-bed1-43a28ade6e0d,listed,,yes
+metaencryptor,SIFCO Industries INC.,US,Manufacturing,2026-09-07,https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:f870e4bbe238d28342428f90cea8bf4930cda866d477a5035acedf46d91eefb8/0AFC:3749a7c820889f8e1968d56bb567a48747595e8f8a8d034fc9089d6ad5acdddb2743fe022f82f599d78b4a90a70df77d,listed,,yes
+metaencryptor,ST Engineering,SG,Government & Defense,2026-09-07,https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:0b4bfcfa250575527730d728c6661dd5871a297402c9a6ed94a73b40cd1aa8b1/0AFC:2d90aa3b158e9f1cbcf415cfcf9047c87a98fe04b39e0504af3ca623dd185ffd,listed,,yes
+metaencryptor,"Hologic, Inc.",US,Healthcare,2026-09-07,https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:1b1f881b5082e0d983b217312555559ddcb10de358316f06a3bf10a138abcbf0/0AFC:c6f1ac7aa4e7fd8391f8e61c78267b00044613c3e3a22a2a7f54ea5349e41918,listed,,yes
 vexy ransomware,LIBRERIA SANTA FE A P S SRL,AR,Retail & E-Commerce,2026-09-07,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
 dragonforce,rubbermill.com,US,Manufacturing,2026-09-06,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=dabd2c16-5f55-49a2-acd5-28d1de9052f7,listed,,yes
 dragonforce,Homewood Sales,US,Retail & E-Commerce,2026-09-06,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=6483b94b-84e1-4416-947f-2591eb728a83,listed,,yes
@@ -58,12 +75,19 @@ qilin,Complete Packaging Solutions,,Manufacturing,2026-09-04,http://ijzn3sicrcy7
 qilin,Tanner,CL,Other,2026-09-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=285a4356-5f48-45b3-b1ce-a250aab638a8,listed,,yes
 spacebears,"Schwartz, Giannini, Lantsberger & Adamson (SGLA)",US,Professional Services,2026-09-04,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/74/schwartz-giannini-lantsberger-adamson-sgla,listed,,yes
 spacebears,Studio Oculistico Ciraci,IT,Healthcare,2026-09-03,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/73/studio-oculistico-ciraci,listed,,yes
+incransom,myglobal.com,MY,Other,2026-09-03,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a99ad6a9cd108bf26e7ee52,listed,,yes
 insomnia,"Maglin, Miskiv & Associates",US,Professional Services,2026-09-03,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/MnM/,listed,,yes
 vexy ransomware,Engefitas,BR,Manufacturing,2026-09-03,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
+incransom,Westfield Public School District,US,Education,2026-09-02,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a98339f9cd108bf26b38e4f,listed,,yes
+incransom,Trucka,MX,Transportation,2026-09-02,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a9834289cd108bf26b3a6ba,listed,,yes
+incransom,Policlinico Triestino,IT,Healthcare,2026-09-02,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a9835249cd108bf26b3d268,listed,,yes
+incransom,Multiver Ltée,CA,,2026-09-02,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a98358f9cd108bf26b3e38b,listed,,yes
+incransom,Metales Panamericanos,PA,Manufacturing,2026-09-02,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a9836399cd108bf26b3fe27,listed,,yes
 kairos,Ville de Libercourt,FR,Government & Defense,2026-09-02,http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion,listed,,yes
 insomnia,N***************,US,,2026-09-02,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Announce/,listed,,yes
 eclipse,part1.simplexengg.in,IN,Technology,2026-09-02,http://yecdjimqiaekprxza6wkqecma4bwt757qiyfjngsaxg7rkjv4xukpwad.onion/data/part1.simplexengg.in/,listed,,yes
 qilin,Uak University,TR,Education,2026-09-02,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=759965bf-44b5-4772-93e8-cbd8e8be702b,listed,,yes
+incransom,specialtytextile.com,US,Manufacturing,2026-09-02,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a97ed959cd108bf26aadc1c,listed,,yes
 qilin,Grayson Rural Electric Cooperative,US,Energy & Utilities,2026-09-02,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=678d1dd9-022a-4521-8317-67e56329d10e,listed,,yes
 anubis,Marlborough Partners,GB,Financial Services,2026-09-02,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5VYRngWB4RHGrQhum0wZh8OC72oO1g3GU++a70ZsZ6tkH4WMROBRx4tJXAXmdwAp3e0NJ5M+6ftohrSE8ypGt5MGR0ZWd4,listed,,yes
 global secret group,Quality Resource Pvt,US,Other,2026-09-01,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/8tEkAvb4TaoYSH37/,listed,,yes
@@ -84,7 +108,11 @@ global secret group,R L Fine Chem Pvt. Ltd.,IN,Manufacturing,2026-08-31,http://o
 interlock,Super Systems Inc,US,Technology,2026-08-31,http://2nv4huuzjbsqncvuepdmwneo6l4ocgtxzcgdau7obcvaqebkssfpz2ad.onion/index.php?p=,listed,,yes
 falcon,Hayward Holdings,US,Manufacturing,2026-08-31,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion/downloads/Hayward.7z,listed,,yes
 qilin,Allied Recycling,IE,Manufacturing,2026-08-31,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e7223d63-284f-41ed-92ad-ff78a88d557a,listed,,yes
+incransom,New Century Ophthalmology Group,US,Healthcare,2026-08-31,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a9591259cd108bf26618346,listed,,yes
 insomnia,Metro Tulsa Foot,US,Healthcare,2026-08-31,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/MTFAS/,listed,,yes
+incransom,zummocorp.com,US,,2026-08-31,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a955bb29cd108bf265a5154,listed,,yes
+incransom,www.lichtvision.com,GB,Technology,2026-08-31,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a955c739cd108bf265a6372,listed,,yes
+incransom,www.renorefractories.com,US,Manufacturing,2026-08-31,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a955cf79cd108bf265a7443,listed,,yes
 qilin,AFSARD,MK,,2026-08-30,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9136a394-e1a1-47ce-8fe6-16ed813a5d23,listed,,yes
 direwolf,THQ Nordic,SE,Technology,2026-08-30,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/113,listed,,yes
 direwolf,Erdem Hospital,TR,Healthcare,2026-08-30,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/114,listed,,yes
@@ -220,9 +248,11 @@ direwolf,PayUp,,Financial Services,2026-08-19,http://direwolfcdkv5whaz2spehizdg2
 direwolf,Lifesum,SE,Healthcare,2026-08-19,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/96,listed,,yes
 securotrop,ADL Embedded Solutions,US,Manufacturing,2026-08-18,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 dragonforce,R & D Machine and Engineering,US,Manufacturing,2026-08-18,http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=9351fab2-40b4-47c9-bf96-a00af22ab27a,listed,,yes
+incransom,Foresee Pharmaceuticals,TW,Healthcare,2026-08-18,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a8414a79cd108bf2657cdc6,listed,,yes
 emperador,Prefeitura Municipal de Arcos,BR,Government & Defense,2026-08-18,/post/prefeitura-municipal-de-arcos/,listed,,yes
 anubis,Scholle IPN / SIG,DE,Manufacturing,2026-08-18,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Dj8yoB2WXxWnsaz7rWtbtYu4vlkCxVt24eIEwa4Rut9nKfSy2ZsAzadrZvrQraO+LEngQYNc7SPDzMAN5mMTlDa1l5QjRT,listed,,yes
 insomnia,Codinter,US,Technology,2026-08-17,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Codinter/,listed,,yes
+incransom,Lansing Urgent Care,US,Healthcare,2026-08-17,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a834cdb9cd108bf263e89dd,listed,,yes
 global secret group,The Rubber Group,US,Manufacturing,2026-08-17,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/42/,listed,,yes
 global secret group,4M REALTY COMPANY,US,Retail & E-Commerce,2026-08-17,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/41/,listed,,yes
 aurora,Planungsgruppe M+M AG,DE,Professional Services,2026-08-17,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/planungsgruppe-mm-ag-3eb2a03f,listed,,yes
@@ -938,5 +968,3 @@ killsec,1 ACT Driving Schools,US,Education,2025-09-10,http://ks5424y3wpr5zlug5c7
 killsec,BFLI,US,,2025-09-10,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=g52YUFMYy0aEfWmigIsZh298,listed,,yes
 killsec,Docklyne,,,2025-09-10,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=yKIjmYLA5JvrEcLOc6ygMiBT,listed,,yes
 killsec,Accelerated Academy,US,Education,2025-09-10,http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=Co0evNkBcdasxk5bbPIAiNAs,listed,,yes
-everest,Allegis Group,US,Business Services,2025-09-09,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Allegis_Group,listed,,yes
-everest,Aupaircare and Intraxinc,US,Consumer Services,2025-09-09,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Aupaircare_and_Intraxinc,listed,,yes
