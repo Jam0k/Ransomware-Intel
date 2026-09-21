@@ -1,4 +1,12 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+emperador,Alabama Woman's Health Care,US,Healthcare,2026-09-20,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/alabama-womans-health-care/,listed,,yes
+auditteam,TEK SPB,RU,Technology,2026-09-20,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/E759D68D977D4EE5,listed,,yes
+auditteam,st***co,IT,,2026-09-20,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/FFD8A9B88CF2335C,listed,,yes
+qilin,Zorlu Holding,TR,Manufacturing,2026-09-20,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=51f10216-38bf-4521-a65e-4d8e1cad8cd6,listed,,yes
+qilin,ShopDunk,TH,Retail & E-Commerce,2026-09-20,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=283a4d27-c413-4819-9937-3ea8ec6725c7,listed,,yes
+qilin,KMLS,DE,,2026-09-20,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7daa7895-84f8-4fbd-8985-f6edc7e64dc5,listed,,yes
+qilin,Touring Club Suisse,CH,Transportation,2026-09-20,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e220ce0a-da54-4c3e-84ef-163069506fd3,listed,,yes
+emperador,Studio Notarile Associato Salvatore Costantino E Anna Favarato,IT,Professional Services,2026-09-20,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/studio-notarile-associato-salvatore-costantino-e-anna-favarato/,listed,,yes
 arcusmedia,AKAZZO,BR,,2026-09-19,http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=812,listed,,yes
 unsafe,voltgames.io,,Technology,2026-09-19,http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6aaead79102e2455604e87ec?page=1,listed,,yes
 emperador,Electrolux,SE,Manufacturing,2026-09-19,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/electrolux/,listed,,yes
@@ -39,7 +47,7 @@ auditteam,buben,IT,Other,2026-09-16,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4
 auditteam,dg.ac.kr,KR,Education,2026-09-16,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/E412B2E7E3ED1A93,listed,,yes
 auditteam,gownet.net,KR,Other,2026-09-16,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/484EC15733A3F216,listed,,yes
 auditteam,krimax.org,AR,Other,2026-09-16,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/CE33F39DA84768CA,listed,,yes
-kairos,Leisure Coast Kitchens,AU,Retail & E-Commerce,2026-09-16,http://kairosgeuzkzz3ajntqcyxl3ib36szz3mg62mb3zbui33pbk3uzo4qqd.onion,listed,,yes
+kairos,Leisure Coast Kitchens,AU,Retail & E-Commerce,2026-09-16,http://erqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion,listed,,yes
 qilin,Reddrop Group,AU,,2026-09-16,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c394bf70-d7e3-4abc-a1ee-75daf9e0992c,listed,,yes
 qilin,In The Company of Huskies,CA,Other,2026-09-16,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=ec979c95-ef83-4795-bd28-0f493f2488ca,listed,,yes
 qilin,Thorndale Foundation,AU,Other,2026-09-16,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=37d18455-0338-497c-a8dd-0897783de757,listed,,yes
@@ -616,6 +624,7 @@ interlock,Centre for Newcomers,CA,Public Sector,2026-07-17,http://y2yplioc7ybrun
 interlock,Paragon Store Fixtures,US,Manufacturing,2026-07-17,http://6p6fubv4udi7kzgh4jojcplujeogmacclxmskfb3y6bknkh7zh7hohyd.onion/index.php?p=,listed,,yes
 m3rx,suppcentersa.com,ZA,Business Services,2026-07-17,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#suppcentersa.com,listed,,yes
 m3rx,arambol.co.uk,GB,,2026-07-17,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#arambol.co.uk,listed,,yes
+krybit,rehabmalaysia.com,MY,Healthcare,2026-07-17,http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/358c4d15c88f881a4fe9b4009fea92875bd9569160533db6cbea77d6fbdee3be/,listed,,yes
 interlock,District of Columbia Housing Authority,US,Public Sector,2026-07-16,http://2gvprypcd3wemjghnnassqtro7nwhocr5ry4bngx7x7xhks7f7oillqd.onion/index.php?p=,listed,,yes
 interlock,Converting Equipment International,US,Manufacturing,2026-07-16,http://zd4caqa225s2rs2nhst4y5nkt575ohdpfm6zwy6mug6js3izseli24qd.onion/index.php?p=,listed,,yes
 pear,Carient Heart & Vascular,US,Healthcare,2026-07-15,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/carient,listed,,yes
@@ -701,9 +710,11 @@ auditteam,I-SYS,RU,Technology,2026-06-25,http://6tdqqaxftvradka5d2frzgwixis7fmro
 interlock,Reynella East College,AU,,2026-06-23,http://pal3f65j4qj7b2hz2mlmimu4vhl4wz7sfdlvp3g2ry3qwk5nc6pbakid.onion/index.php?p=,listed,,yes
 apt73,kliknklik.com,ID,Consumer Services,2026-06-23,http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/page_company.php?id=173,listed,,yes
 apt73,gov.br,BR,Public Sector,2026-06-23,http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/page_company.php?id=172,listed,,yes
+aurora,Corporación Primax S.A.,PE,,2026-06-23,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/corporacin-primax-sa-9fd84393,listed,,yes
 braincipher,eggetttax.ca,CA,Agriculture and Food Production,2026-06-22,http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/eggetttax,listed,,yes
 braincipher,sterlinggloballtd.com,GB,Business Services,2026-06-22,http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/sterlinggloballtd,listed,,yes
 aurora,Aerospace & Advanced Composites GmbH,DE,Manufacturing,2026-06-22,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/aerospace-advanced-composites-gmbh-4304f151,listed,,yes
+aurora,Kochs GmbH,DE,Manufacturing,2026-06-22,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/kochs-gmbh-5d95e438,listed,,yes
 payload,ENB Versicherungen | myenb.ch,CH,Financial Services,2026-06-20,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/0833681d-0958-4396-ad0e-648449982275,listed,,yes
 payload,Editora Irmãos Vitale,BR,Education,2026-06-20,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/226497e0-7f90-443f-ab5e-2bdb5a979b16,listed,,yes
 payload,Qualiflex Solutions | qualiflex.solutions,CH,Business Services,2026-06-20,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/82ea2e16-b8a3-45d4-bc17-91c0e186c4f1,listed,,yes
@@ -857,6 +868,7 @@ everest,Straight Line Logistics,AE,Transportation/Logistics,2026-03-30,http://ra
 securotrop,Jones Haber Law,US,,2026-03-30,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 sarcoma,GYF,,,2026-03-30,,listed,,yes
 exitium,Ming Hwei Energy,TW,Energy,2026-03-29,http://m3ksukzn2glzfdvlusohril7n3iyk4z4fudf6mm22lwhpbpt5aiee5qd.onion#Ming%20Hwei%20Energy,listed,,yes
+anubis,Schlam Stone & Dolan LLP,US,Business Services,2026-03-27,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/26XYDvSlEdcotLH1sNZE3Y7tz7Sf3ZoQz7aCECJoY8NCcpOaHcJBBm7tQgszFjd7fBinAv97fWtbPaRSOBGlERVlEUGlB,listed,,yes
 crypto24,ActionPower,KR,,2026-03-27,,listed,,yes
 interlock,Goodwill,US,Consumer Services,2026-03-26,http://3ssy6kepkwajapmra262il4tnufgbujf2boz7odgigc3e46dzdqd6wad.onion/index.php?p=,listed,,yes
 crypto24,Estudio O'Farrell,AR,,2026-03-24,,listed,,yes
@@ -875,16 +887,20 @@ embargo,westport.com,US,Technology,2026-03-14,http://embargobe3n5okxyzqphpmk3moi
 beast,Communicate UK,GB,Telecommunication,2026-03-14,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/communicate_uk,listed,,yes
 killsec,meena health,,Healthcare,2026-03-14,,listed,,yes
 killsec,NextCapitalTrust,,Financial Services,2026-03-14,,listed,,yes
+anubis,KLA Laboratories,US,Technology,2026-03-13,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/iHo8aqQo3qJEwm+Xyc5sWCEH6yqbS31b9EgHtqwgNwxHDqxSqXjN3sNNh5Ynib4ag6uTxZzfVmmO6BliL7buzRMVU1xd3JK,listed,,yes
 ailock,England Hockey,GB,Public Sector,2026-03-12,,listed,,yes
 nightspire,Big Brothers Big Sisters,US,Education,2026-03-11,,listed,,yes
 embargo,ubm.hu,HU,Technology,2026-03-11,http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion/#/post/1e33d318-6503-45b2-987e-074c30c25e89,listed,,yes
 interlock,Elliott-Lewis,US,Construction,2026-03-11,http://x2ol75zago3z2nrp7lnmbcwoq3okiexuwi456oe6jqurbprg6lljz3yd.onion/index.php?p=,listed,,yes
 killsec,shlomo bit,IL,,2026-03-11,,listed,,yes
+anubis,L. S. King and Associates,,,2026-03-10,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/d2cY8O8AQB2OzlSDs78lnb7I8ahUw9Z1KZpxhyoUKonzDDWcAzZiYzupAjEhOuF5vRLSwP3RpxLKba384PFIoTh5bmFCblF0,listed,,yes
+anubis,A J Taylor Electrical,GB,Construction,2026-03-10,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/+jDJdnGcVTnYLixdsyohXz7MCFHtJpglSm89HPqtPafDJMlHMlL4LLaZBgu4SikHO7WK1mO1niVCvSIIubOzZZMHZENWlC,listed,,yes
 everest,First Priority Group,US,,2026-03-10,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/First_Priority_Group_/,listed,,yes
 interlock,Wagon Mound Public Schools,US,Education,2026-03-09,http://hu5zd7ek6glyoke5kfc4mvt6s3cmia6ebtqptumvbogzdo2vrn5e7bid.onion/index.php?p=,listed,,yes
 ailock,Johnson Vollmerhausen & Gates,,,2026-03-07,,listed,,yes
 ailock,Netwerk NV,BE,,2026-03-07,,listed,,yes
 ailock,Eeyou Communications Network,CA,Telecommunication,2026-03-07,,listed,,yes
+anubis,Ladue Family Dental,US,Healthcare,2026-03-07,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/urjTEjedClIgCF6GFmWJODZWgv5xfGCnkGC78L8zGGtcB6TZahspTAhavRX3CLLwBW54ls7lHCh9lESj9N1GhRRWZKQ3NQ,listed,,yes
 termite,City of Huntington,,Public Sector,2026-03-07,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/69ab564cc3aeb8d444652359,listed,,yes
 everest,Hyundai Elevator,KR,Manufacturing,2026-03-06,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Hyundai_Elevator/,listed,,yes
 ailock,Transsion,CN,Technology,2026-03-06,,listed,,yes
@@ -911,12 +927,16 @@ ailock,HomeSite Services,US,Construction,2026-03-03,,listed,,yes
 ailock,Revival Animal Health,US,Consumer Services,2026-03-03,,listed,,yes
 ailock,AJ Networks,KR,,2026-03-03,,listed,,yes
 ailock,Integral Analytics,US,Technology,2026-03-03,,listed,,yes
+anubis,Andal Law Group,US,,2026-03-03,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/7c0dk4mZyLqlb6RQEmh978aiMnuuS23Hzdc+mmkCRDsqX2ScCI5AFpiSZNeBlfW81kfuw9MZbuawwhnpQfAzZyOVc4Ulg2,listed,,yes
 termite,Bartram Trail Surveying,US,Business Services,2026-03-03,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/69a6314dfeb604ea6ee5ab74,listed,,yes
+anubis,AkzoNobel,NL,Manufacturing,2026-03-02,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/pwlvqUcuRMAEU2HicaNUZc0Co3A6cHpiqPWwXTJb27l1E3SD02gPtghtzbv6edeILgAGsnOb2aTuQ0XOGUdfbGdxc2xFNzRL,listed,,yes
 everest,UD Trucks,JP,Manufacturing,2026-02-28,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/UD_Trucks/,listed,,yes
 termite,Insight Hospital and Medical Center Chicago,US,Healthcare,2026-02-28,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/69792ffffeb604ea6ee573d8,listed,,yes
 insomnia,Ripple Neuro,US,Technology,2026-02-26,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Ripple/,listed,,yes
+anubis,Physicians Clinic of Iowa,US,Healthcare,2026-02-26,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/o9KZNNWvO6oVuxowNfrIpGwReGMNjPfUvVtEqjd198kutpuSorJQzzcYZVKldTu4xX+yluLCznQ2OCzjaoRBGxhTzhvMjVE,listed,,yes
 insomnia,Thrash Commercial Contractors,US,Construction,2026-02-26,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Thrash/,listed,,yes
 abyss,thinlinetech.com,US,Technology,2026-02-26,,listed,,yes
+anubis,Envirogen Technologies,US,Manufacturing,2026-02-26,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/mJ3C96jR1frafLN9lGzLMW9kpp2gsQrY+gphK7xCoMggb68u7S7Vd+9z2TMEBR+HuYaKEqP4+zv8jW2dEN86AU81cllJRWtp,listed,,yes
 insomnia,Zaner Group,US,Financial Services,2026-02-25,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Zaner/,listed,,yes
 termite,Jones Haber,,,2026-02-25,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/699e206bfeb604ea6ee59a40,listed,,yes
 termite,The Siskiyou Telephone,US,Telecommunication,2026-02-25,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/699e2818feb604ea6ee59af6,listed,,yes
@@ -924,11 +944,13 @@ termite,Birmingham Museum of Art,US,,2026-02-25,http://termiteuslbumdge2zmfmfcsr
 killsec,primaria ungheni,RO,Education,2026-02-25,,listed,,yes
 beast,"AJU Pharm Co., Ltd",KR,Healthcare,2026-02-24,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/aju_pharm_co___ltd,listed,,yes
 killsec,onlinedivorcetexas.com,US,Consumer Services,2026-02-21,,listed,,yes
+anubis,Micaforce Technology,CN,Technology,2026-02-21,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/QL9vpaahcL7EUHxAwE9pdla1gO8avpwuBojORroyS4grTgEigru86b20MehFxBfRHulDhR5maZPZqdS9TE08QEF3ZjV1emVs,listed,,yes
 securotrop,Universal Mailing Service,US,Business Services,2026-02-19,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 insomnia,AdMark Asia Group,US,,2026-02-18,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/AdMark/,listed,,yes
 insomnia,Application Solution Providers,US,Technology,2026-02-18,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/ASP/,listed,,yes
 beast,First 4 Recruitment,GB,Business Services,2026-02-18,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/first_4_recruitment,listed,,yes
 beast,"Daniel L Kaler, DDS, PC",US,Healthcare,2026-02-18,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/daniel_l_kaler__dds__pc,listed,,yes
+anubis,IFL Group,US,Transportation/Logistics,2026-02-18,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/VYwgA9Zttq8WFrIexOAMStKEGWdDU69ZNevhyWhtyMUp9A+uBevnOT1bdQiVgtQnVQ0BWLMN4QHcuJ1IfBjY3lzNjBNMEd0,listed,,yes
 securotrop,Marshal Renee Construction,,Construction,2026-02-17,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 everest,Atlas Air: MUSE INSECURE,US,Transportation/Logistics,2026-02-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Atlas_Air/,listed,,yes
 killsec,Orain.io,ES,Technology,2026-02-17,,listed,,yes
@@ -937,10 +959,14 @@ interlock,Yew Tree Dairy,GB,Agriculture and Food Production,2026-02-16,http://f5
 insomnia,Copier Careers,US,Business Services,2026-02-13,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Copier/,listed,,yes
 insomnia,The Syverson Group,US,,2026-02-13,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Syverson/,listed,,yes
 interlock,Archaeological Institute of America,US,Education,2026-02-13,http://efgmr2vxwynrn7vlemidwf4ffwl4vljsb4eusaz3bplwk3apthpkpsad.onion/index.php?p=,listed,,yes
+anubis,Samkwang,KR,Manufacturing,2026-02-13,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/kfAHCyNIeMr6yhisUmcxjhJQntArBHlNP2X87fxddbzkg1fnRD6ZxUHPfUyzJCRCftucq7my9V4ttNHzIN1EhKY0JrdWU5,listed,,yes
 beast,Law Office of COX & SANCHEZ,US,Business Services,2026-02-11,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/law_office_of_cox___sanchez,listed,,yes
 beast,Andringa Law,US,,2026-02-11,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/andringa_law,listed,,yes
+anubis,Langley Twigg Law | Part 2,NZ,,2026-02-09,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Vg0d5G0L1A6Bg+Eu0BEp66Pm9fjv878QN6Zuuv1NkgkaPDgr+N2qjwRysWbVw56KGcWsV6w1q3JnD0SIw3RB202VHlFTHNj,listed,,yes
 beast,Hospital Sao Jose do Avai (HSJA),BR,Healthcare,2026-02-09,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/hospital_sao_jose_do_avai__hsja_,listed,,yes
 killsec,Getly,NG,,2026-02-09,,listed,,yes
+anubis,Rutherford Investment Company,US,Financial Services,2026-02-09,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/fyhkJZB5p2GAqlXlBrqEK2UIx1evfW1amzefCUSOchcuqeKNytasL9DSXDi4Vn14kjHPCragk6M7wG9PWgm0JXJEalNpenRz,listed,,yes
+anubis,Abel Schillinger,DE,,2026-02-08,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/x2C+hrHSSEb9PGFSjNsohsM9vzKbUyE9Ia3mQYNblxcub8TAlCi1wEEPW22uP3ypX5fx3SY4GyNhtjXrVV3RHNHZIVHVU,listed,,yes
 insomnia,Advanced Healthcare Professionals,US,Healthcare,2026-02-07,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/AdvancedHealthcareProfessionals/,listed,,yes
 insomnia,Integrated Fresh Solutions,US,Agriculture and Food Production,2026-02-07,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/IFS/,listed,,yes
 insomnia,Gruel Mills Nims Pylman,US,,2026-02-07,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/GMNP/,listed,,yes
@@ -960,7 +986,10 @@ insomnia,Enviro-Hub Holdings,SG,Manufacturing,2026-02-07,http://i62huw7ve22rpyw6
 insomnia,Chiarottino,BR,,2026-02-07,http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Chiarottino/,listed,,yes
 everest,Atlas Air,US,Transportation/Logistics,2026-02-06,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Atlas_Air/,listed,,yes
 tridentlocker,TMPartner,JP,,2026-02-06,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/200c65ca-7f2c-48b3-a76b-9d05421afc68,listed,,yes
+anubis,"Advent Aircraft Systems, Inc.",US,Manufacturing,2026-02-06,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/4cE5Ccf6iBUOzCID0xKzwRGq1oC8wrzhxArRfv3P2Q+Przzka+yAyMJlIIqWYI5C8+1sML4TNHEZRUGUcmg0SlpvOU1m,listed,,yes
 killsec,brooklyn group,US,,2026-02-04,,listed,,yes
+anubis,Ashby Computers,GB,Technology,2026-02-04,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/C6FErg2xMJR0Nan08pg5kLBFO5F++dRDHqZIgInQCrAv44Ypb+xpmqAMROOcXqvXyIYQQ912M12Bd1WXjZhha0o2VVFsN3FK,listed,,yes
+anubis,"Law Offices of Thomas J Skinner, IV",US,Business Services,2026-02-03,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/HqTG8pkzmxDBLoP2iOqHs6mqdz2TU5M1mJs8Hax+VGWl2DNHbkEbs9KFscTY8GynwFmqJVu4d4wx9+7NSpTJPMGg0a3VW,listed,,yes
 termite,Family Health Center,,Healthcare,2026-02-02,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/69811116feb604ea6ee57b01,listed,,yes
 everest,Polycom,US,Technology,2026-02-02,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Polycom/,listed,,yes
 everest,Iron Mountain,US,Business Services,2026-02-02,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Iron_Mountain/,listed,,yes
@@ -971,6 +1000,7 @@ everest,Acu Trans Solutions LLC,US,Transportation/Logistics,2026-02-01,http://ra
 everest,SIGMA Processing Group,DE,,2026-02-01,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/SIGMA_Processing_Group/,listed,,yes
 interlock,Odyssey Academy,,Education,2026-02-01,http://2tlkuy2qn7bfxyvbfpxqaqveoezctbrnk6yvbvin6dueiuk4rdoosyqd.onion/index.php?p=,listed,,yes
 interlock,Urban Edge Architecture,GB,Construction,2026-01-29,http://fbvrolfvadyhigunc5hfw5hextwqn4lvq7d5ieeivcizsxh3avn6dryd.onion/index.php?p=,listed,,yes
+anubis,Vitosha Park Hotel,BG,Hospitality and Tourism,2026-01-25,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/1pB4YVCtJrA9DFc4mFt0fGX0OwZTi4VDSjFBpWKz8b+zmqifIG6bTDtgzX1mgmKTUqxiRxQRdT3MUTWgqFi0VhrblU2ckha,listed,,yes
 killsec,X-CD Technologies,US,Technology,2026-01-23,,listed,,yes
 sarcoma,Propane Levac Inc.,CA,Energy,2026-01-23,,listed,,yes
 everest,Bolttech,SG,Technology,2026-01-21,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Bolttech/,listed,,yes
@@ -991,15 +1021,21 @@ everest,Chrysler,US,Manufacturing,2025-12-25,http://ransomocmou6mnbquqz44ewosbkj
 termite,Hermes Medical Solutions,SE,Healthcare,2025-12-25,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/694c8118feb604ea6ee55c75,listed,,yes
 killsec,grade results,US,Education,2025-12-24,,listed,,yes
 interlock,The Salvation Army,US,Public Sector,2025-12-24,http://ihbpu7nworzao2klqeeahnz7wcuavltny3p2cmfkhe5tko3vl3zcowyd.onion/index.php?p=,listed,,yes
+anubis,Carbis Loadtec,GB,Manufacturing,2025-12-23,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/SoFFsbuCvwP0YHv2EOxkzMKoSF+En8JW7HuNK5ih1ibLvuXYKrn6vryj2EncTglje2oxs1JjkiObqNeNJGWklyOE54bHFS,listed,,yes
 everest,Notin,ES,,2025-12-23,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Notin/,listed,,yes
+anubis,Laidley Family Doctors,AU,Healthcare,2025-12-23,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/3ps6PIhLpjVlMpPNBRazLgxRybSdaxdqyD1qinygTczt5IFWxL8AfHfq5FSxb147x5GubJn0iQm2h5u5WOs7gEE4akNtd1Fs,listed,,yes
+anubis,Woodglen Medical Group,US,Healthcare,2025-12-23,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5r5iXrDcq81ieO1gCAoEV+xeh85NS+tIldTzT3pLyWK1JxFF7IvdItkry8unp46VNERPoj+54TvwbEAmwGWglnRwREltS05T,listed,,yes
 securotrop,Spartan Carbide,US,Manufacturing,2025-12-22,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 interlock,Swartz Campbell,US,,2025-12-22,http://zsjvoqymwx5gdwntsrrk3pvnkfyoxy3knhoxitpdaobxznwc5iwcj4id.onion/index.php?p=,listed,,yes
+anubis,Deibel Laboratories,US,Healthcare,2025-12-19,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/7QIL0nx4sMcYH6LTLQKHAqhAKD6sNK0tmbvqoX3YRZvkjHmw4iGUpt0B3kQKbTPXaCKOUi7obfLrrmcBjdpIzEtYSG5TZHRW,listed,,yes
 tridentlocker,allenprinting,,,2025-12-19,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/207a35f0-2fa8-414d-947e-97e09b76cb17,listed,,yes
 interlock,Clarksville ISD,US,Education,2025-12-18,http://vhs6omcvvqdtmgae5cvpy4jfxfrw2l4b7e64j7fn7xeaqeppzab67oad.onion/index.php?p=,listed,,yes
 ms13089,dgpcommercialisti.it,IT,,2025-12-18,http://msleakjir7pxbe6onlqe5uwgvdmy6nq4mnwfy7ojswbhnleenm77vgad.onion/DGP/index.html,listed,,yes
 ms13089,uro.com,DE,,2025-12-18,http://msleakjir7pxbe6onlqe5uwgvdmy6nq4mnwfy7ojswbhnleenm77vgad.onion/URO/index.html,listed,,yes
 termite,MedHelp,US,Healthcare,2025-12-17,http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/6941ec0ffeb604ea6ee5510d,listed,,yes
 everest,ELC Electroconsult SpA,IT,Technology,2025-12-16,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/ELC_Electroconsult_SpA/,listed,,yes
+anubis,Markham Stouffville Hospital,CA,Healthcare,2025-12-16,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/972yBgEdcwzdBr5w7789PHPOQzniuNddvIxO6OnL1pJEjGVwtapBsH1SMHuUMYY0BT5Rdhs9eqjYRdIkgXzm01NmpoSWJn,listed,,yes
+anubis,Beyer Law Group,US,,2025-12-16,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Bo4opOE4pvD1yT10Lv+AjtcLSi5o8YGU9wSxYeadsZJVD2ZtPWE5tbkoQtj65wZPCp89d9EvYG4Ktc3kGr6GlZzZ01KR1JG,listed,,yes
 interlock,Print-O-Tape,US,Manufacturing,2025-12-15,http://gobj3ph5sj332iithgescrsejiszhaey5l4ffwnou4nwanbcf37phdqd.onion/index.php?p=,listed,,yes
 killsec,republica federative do brasil,BR,Public Sector,2025-12-15,,listed,,yes
 killsec,dabafinance.com,GB,Financial Services,2025-12-14,,listed,,yes
@@ -1010,12 +1046,15 @@ killsec,playroll,GB,,2025-12-09,,listed,,yes
 killsec,seajob,IN,,2025-12-09,,listed,,yes
 everest,Sarmap - Database leaked,CH,,2025-12-08,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Sarmap/,listed,,yes
 securotrop,Cadman Power Equipment,CA,Manufacturing,2025-12-08,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
+anubis,Trumbull County,,,2025-12-06,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/8qOoxXVybdjVCTGhalhvjHRRXeYrPkagR2snOnZpsXWlV+z5i7sxcdh7jioCJ6SyzFmTrSjZ0UcEmVMxZgdxnQxZFlaazEz,listed,,yes
+anubis,Smith Fire Systems,,Manufacturing,2025-12-04,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/itiMNEaqIzF+TztOO2DcLoFm3nyiKvNtShcERTuMGp9UP7dVuEOqRN4UpOUqZvb0pBslovBGfrPQhZo80mdIMGxWemZh,listed,,yes
 securotrop,Delta Coast Consultants,US,,2025-12-03,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 everest,Sarmap,CH,Technology,2025-12-02,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Sarmap/,listed,,yes
 everest,Petra,,,2025-12-02,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Petra/,listed,,yes
 tridentlocker,noment,,,2025-12-02,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/2be17e73-66b6-4073-9c96-62d38a9a8e51,listed,,yes
 everest,ASUS,TW,Technology,2025-12-02,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/asus/,listed,,yes
 tridentlocker,bpost,BE,Telecommunication,2025-12-01,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/efbc8b1a-22e9-4a7f-958a-1f37c0ec9cc4,listed,,yes
+anubis,Fun For Less Tours,US,Hospitality and Tourism,2025-12-01,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/caM4jgcJ8ENBHxO2lXxJB5e4aPQ10vdCv0E85iD3M8ZgGyREQCrF3qtQR+ywlhdHYroY45UNG7ERgDTQNRobQ2U5MVhWY09t,listed,,yes
 tridentlocker,GuestTek,CA,Technology,2025-11-29,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/7861298b-ba53-482e-9c9f-1a8ea73560af,listed,,yes
 tridentlocker,Advantage 360,US,,2025-11-29,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/557b56ee-eb32-47c7-82f6-df6bca2a57c8,listed,,yes
 tridentlocker,iqs,IQ,,2025-11-29,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/cf4c4631-df18-4c55-9dae-ecba8638a992,listed,,yes
@@ -1024,24 +1063,31 @@ tridentlocker,EnQuest,GB,Energy,2025-11-29,http://tridentfrdy6jydwywfx4vx422vnto
 tridentlocker,Calmec,CA,,2025-11-29,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/338eae6f-62e4-42df-b38a-28bd54987cb9,listed,,yes
 tridentlocker,typecaseinc,,,2025-11-29,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/db746ab1-79d6-4fc6-8e75-07ebe37f26b7,listed,,yes
 tridentlocker,asiawba,,,2025-11-29,http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/f94cf4f3-7164-43a6-8feb-346cb3b6d83a,listed,,yes
+anubis,Mid South Pulmonary & Sleep Specialists,US,Healthcare,2025-11-28,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/MqQUrW518VMoqHG1tNj2332SLGTzihp3XisbY5YEqu1nDZJT8bmkRDVQ1BpuR71OrMIS58QOeogHhvoVD8hDzhmVzBDYkF6,listed,,yes
 qilin,Bcfpers,,,2025-11-27,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=515de042-fc9c-3c28-a153-f428bcd643f0,listed,,yes
 killsec,Rama Judicial,CO,Public Sector,2025-11-27,,listed,,yes
+anubis,AllerVie Health,US,Healthcare,2025-11-26,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/uzd6eUAKSW1qLe9KTG09jNR5n7GWUiPsrsguvKGYNPucmY0fnpyOWpgY86GRi3vL9s3L9bIHzTyaB0nzD33KDNIb0NHYkk3,listed,,yes
 everest,National Money Mart Company,CA,Financial Services,2025-11-25,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/National_Money_Mart_Company/,listed,,yes
 everest,Iberia Airlines,ES,Transportation/Logistics,2025-11-25,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Iberia/,listed,,yes
 securotrop,Mister Guns,US,,2025-11-22,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 sarcoma,Söllner,DE,,2025-11-20,,listed,,yes
 sarcoma,B&J Rocket Sales,CH,Manufacturing,2025-11-19,,listed,,yes
+anubis,FSGROUP-Engineering,,,2025-11-19,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ufYxwJMU3iByTbYvRUCTahKAWZdiX9ncEUa73QI0KNeccnAw5+5k0J0R2bc662WMF4aUPuYB6wCj3nJ66XRGBGcyc3RVakdB,listed,,yes
 everest,Petrobras Campos Basin 3D & 4D Seismic Survey Data,BR,Energy,2025-11-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Petrobras_Campos_Basin_3D___4D_Seismic_Survey_Data/,listed,,yes
 everest,Petrobras / SAExploration,BR,Energy,2025-11-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/petrobras/,listed,,yes
 everest,UNDER ARMOUR,US,Consumer Services,2025-11-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/UNDER_ARMOUR/,listed,,yes
 killsec,Force Brokerage,US,,2025-11-15,,listed,,yes
 everest,FullBeauty Brands,US,Consumer Services,2025-11-13,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/fbbrands/,listed,,yes
+anubis,Lung Rose Voss Wagnild,,,2025-11-13,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/mV6aTvs+ZNzX2oh675fy1cvA8WCV7MfT0qJgcO0ri1LqSTAkebw43aGhsiDRuRtcmvmDkq3UiKTUSeUBt1K1vlk4SWRoQWM2,listed,,yes
 everest,"Vikor Scientific, LLC / Korgene",US,Healthcare,2025-11-13,"http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Vikor_Scientific,_LLC___Korgene/",listed,,yes
 everest,KorPath,KR,,2025-11-13,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/KorPath/,listed,,yes
+anubis,Brenda Richardson Memorial Care Home LLC,US,Healthcare,2025-11-11,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/VhqpF6JDKUx6XirvcywDPPsGiKofSZ3752Chh5Qv3nK0q6jkRDAE3iFUxX06S0AGlmAOx74l2jYJ2D+byz121xOFByZEZt,listed,,yes
+anubis,Olive Branch Family Medical Center,US,Healthcare,2025-11-11,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ogoG9ZXUcwQYYtWkD15htBDgjK2MHhrpuQkA7DI+zZBrqB8Rlc6pD9rXwcFveS0Q87x0+7Nao+W0HYLVneLEhsVTJmN1lk,listed,,yes
 sarcoma,Paul Hildebrandt,DE,,2025-11-11,,listed,,yes
 everest,SIAD,IT,Manufacturing,2025-11-10,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/SIAD/,listed,,yes
 everest,AGFA,BE,Technology,2025-11-10,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/AGFA/,listed,,yes
 securotrop,Pocatello Ready Mix,US,Construction,2025-11-08,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
+anubis,Dermatology Associates,,Healthcare,2025-11-06,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/16PgHcQZZ6puf1n71XgMPzLqmOv+tWE4ptmN4Ionax+OJpUc+6zGujgf2m1MYZqXuENg6nNTFSnIn1AzFsnBvWXJiSHk4,listed,,yes
 everest,AT&T Careers - Database Leaked,US,Telecommunication,2025-10-28,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/att,listed,,yes
 everest,MotorsportMarkt.de,DE,,2025-10-27,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/MotorsportMarkt.de,listed,,yes
 everest,ANIA KRUK,PL,,2025-10-27,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/ANIA_KRUK,listed,,yes
@@ -1059,13 +1105,17 @@ killsec,J AND S Electrical And Lighting Sup...,US,Manufacturing,2025-10-23,,list
 killsec,FAAB Invest Advisors Private Limite...,IN,Financial Services,2025-10-23,,listed,,yes
 killsec,"DUC App: Global Money Movement, Sim...",CA,Technology,2025-10-23,,listed,,yes
 killsec,iCare Software,US,Technology,2025-10-23,,listed,,yes
+anubis,Goodfellow & Schuettlaw,,,2025-10-23,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/aWp0hFQIqkWMJCRmweY8S3cP+m7DVeEdxxWO0HDPxZAC1rOAHXNTTgmprW0oQOEcN4LcXZZu5JpnN4xJY7xEEJvZWdkelQz,listed,,yes
+anubis,Paterson & Dowding Family Lawyers,AU,Business Services,2025-10-23,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ylT8ETgghDfrKnFidvOIC8Dcnm76+F5nIGlsZGTf2BeWIbycjfJkEBwWBw+dlRjRBm7RYKG6ChGMH2PMSPMOKXh1Z0Jtdlo3,listed,,yes
 embargo,ACTi.com,TW,Technology,2025-10-22,http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion/#/post/7e0fe038-1185-4f6e-9a51-e43e56889e20,listed,,yes
 securotrop,Superior Air Parts,US,Manufacturing,2025-10-22,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 everest,AT&T Careers,US,Telecommunication,2025-10-22,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/att,listed,,yes
 everest,Collins Aerospace / RTX.com,US,Manufacturing,2025-10-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/collinsaerospace/,listed,,yes
 everest,MUSE-INSECURE: Inside Collins Aerospaces Security Failure,,Technology,2025-10-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/rtx,listed,,yes
+anubis,Aussie Fluid Power,AU,Manufacturing,2025-10-16,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/+pramV9PZLqGQtQPymaK6dYfpO+n6DjkqLgmqL8LV385aLhqLgG4JPE+8SLLI0JVhKnkLMviwEa9nLoFP1VJHhudU9uUWVo,listed,,yes
 sarcoma,Unimed do Brasil,BR,Healthcare,2025-10-15,,listed,,yes
 everest,Streebo,US,Technology,2025-10-11,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/streebo,listed,,yes
+anubis,Maine Oxy,US,Manufacturing,2025-10-11,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/cYEsBnPfSaq4VsASGWRQ+i9aGEHCEl5iBwrvH4aHEHQ3HrczH1bAJYi8fLGk73h9Ki0N8BC56uLM36dyHVNW5PYlROMG40,listed,,yes
 securotrop,Churchill Claims Services,US,Business Services,2025-10-10,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 sarcoma,Charter Industrial Supply,US,Manufacturing,2025-10-08,,listed,,yes
 securotrop,Mill Bay Marine Group,CA,,2025-10-04,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
