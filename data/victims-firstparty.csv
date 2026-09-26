@@ -1,4 +1,13 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+everest,Securitas Group,SE,Professional Services,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/securitas-group,listed,,yes
+everest,Morula IVF,ZA,Healthcare,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/morula-ivf,listed,,yes
+everest,Reliance Audit,,Professional Services,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/reliance-audit,listed,,yes
+everest,UNIRITA,JP,Technology,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/unirita,listed,,yes
+everest,CENELEC,BE,Professional Services,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/cenelec,listed,,yes
+everest,ETS,,Education,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/ets,listed,,yes
+vexy ransomware,Majani Insurance Brokers,KE,Financial Services,2026-09-25,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
+qilin,Iberia Compositech Manufacturing,ES,Manufacturing,2026-09-25,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7216d103-276c-431e-845d-7823ad98e49c,listed,,yes
+incransom,pharma5.ma,MA,Healthcare,2026-09-25,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab630619cd108bf2694b2ef,listed,,yes
 incransom,welgenone.com,US,Healthcare,2026-09-24,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab54bee9cd108bf2676bd94,listed,,yes
 incransom,ukbjja.org,GB,,2026-09-24,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab550cb9cd108bf26772eb9,listed,,yes
 qilin,Dao Group,,Other,2026-09-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=3bb5b6be-ebeb-49cc-a4a2-df18089a38f8,listed,,yes
@@ -24,7 +33,7 @@ emperador,RECEITA FEDERAL DO BRASIL,BR,Government & Defense,2026-09-23,http://em
 anubis,Gaedke & Partner Steuerberatung,DE,Professional Services,2026-09-22,http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/5IqKpI70XwsXyNYTgmsg+eHmKJ+826n9QEWqn9b+heiPiDhDMQrVMq69ls0tJbQD7nwYhw3E6MuGdPUlVHR8LlVSdW1jUTU4,listed,,yes
 titan,Grupo Hospifar S.R.L.,AR,Healthcare,2026-09-22,http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/grupo-hospifar-s-r-l-data-400gb-0b2q7e7nx5,listed,,yes
 titan,"Sherman Chan, DDS, Inc.",,Healthcare,2026-09-22,http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/sherman-chan-dds-inc-data-160gb-0b7pcxph5q,listed,,yes
-kairos,Krapf Group,US,Manufacturing,2026-09-22,http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion,listed,,yes
+kairos,Krapf Group,US,Manufacturing,2026-09-22,http://kairosgeuzkzz3ajntqcyxl3ib36szz3mg62mb3zbui33pbk3uzo4qqd.onion,listed,,yes
 qilin,The Fifty/50,US,,2026-09-22,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=83a4106b-ded9-491f-82ff-e55b5142dc8a,listed,,yes
 auditteam,vit.ac.in,IN,Education,2026-09-22,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/4AB39A256B7A31D5,listed,,yes
 auditteam,Pr***IT,IT,Professional Services,2026-09-22,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/15E3F424FBA355A9,listed,,yes
@@ -439,6 +448,7 @@ pear,Practi-Cal,US,Other,2026-08-20,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin
 pear,Austin Plastic Surgery Institute,US,Healthcare,2026-08-20,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/austinpsi,listed,,yes
 titan,ELCON MEGARAD S.p.A,IT,Manufacturing,2026-08-20,https://titanblog.org/post/elcon-megarad-s-p-a-fully-encrypted-nv34pi6ihb,listed,,yes
 deadlock,JP Molyneux Studio,GB,Other,2026-08-20,,listed,,yes
+everest,Kingston Technology,US,Technology,2026-08-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/kingston-technology,delisted,2026-09-09,yes
 everest,Experts Entreprendre,FR,Professional Services,2026-08-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/experts-entreprendre,listed,,yes
 everest,Grupo DT,ES,Other,2026-08-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/grupo-dt,listed,,yes
 everest,Capgemini Engineering,FR,Professional Services,2026-08-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/capgemini-engineering,listed,,yes
@@ -462,6 +472,7 @@ global secret group,4M REALTY COMPANY,US,Retail & E-Commerce,2026-08-17,http://o
 aurora,Planungsgruppe M+M AG,DE,Professional Services,2026-08-17,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/planungsgruppe-mm-ag-3eb2a03f,listed,,yes
 direwolf,Arizona State University (ASU),US,Education,2026-08-17,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/91,listed,,yes
 direwolf,Wishfully Studios,SE,Technology,2026-08-17,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/90,listed,,yes
+everest,Rx Networks,CA,Technology,2026-08-17,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/rx-networks,delisted,2026-09-09,yes
 direwolf,Mighty Kingdom,AU,Technology,2026-08-17,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/89,listed,,yes
 direwolf,Eva AI Limited,GB,Technology,2026-08-17,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/92,listed,,yes
 aurora,Natco Home Group,US,Retail & E-Commerce,2026-08-17,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/natco-home-group-77b27d0d,listed,,yes
