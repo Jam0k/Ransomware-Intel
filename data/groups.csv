@@ -1,15 +1,15 @@
 group,site_title,active,first_seen,last_seen,victim_count,language,login_gate,screenshot_url,first_party_victims,mirrors_up
-qilin,Qilin blog,yes,2022-10-08,2026-09-25,2315,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/qilin/20260927T033244Z.png,102,0
+qilin,Qilin blog,yes,2022-10-08,2026-09-27,2319,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/qilin/20260927T033244Z.png,106,0
 lockbit3,,yes,2021-12-26,2025-12-05,2016,,,,71,0
 akira,,yes,2023-04-12,2026-09-24,1621,,,,0,0
 play,PLAY NEWS,no,2022-11-26,2026-09-21,1317,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/play/20260612T033041Z.png,0,0
-clop,,yes,2020-03-13,2026-09-10,1302,,,,137,0
+clop,,yes,2020-03-13,2026-09-10,1302,,,,138,0
 lockbit2,,no,2021-09-09,2022-06-28,1002,,,,0,0
-incransom,,yes,2023-08-06,2026-09-25,949,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/incransom/20260916T034539Z.png,36,0
+incransom,,yes,2023-08-06,2026-09-28,951,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/incransom/20260916T034539Z.png,40,0
 thegentlemen,Gentlecloud Protection,yes,2023-02-28,2026-09-25,888,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/thegentlemen/20260924T033144Z.png,0,0
 ransomhub,,no,2023-03-09,2025-03-31,842,,,,0,0
 alphv,,no,2021-09-09,2024-03-03,731,,,,0,0
-dragonforce,DragonForce | Migration completed,yes,2022-10-20,2026-09-24,657,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/dragonforce/20260916T033607Z.png,40,0
+dragonforce,DragonForce | Blog,yes,2022-10-20,2026-09-24,657,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/dragonforce/20260928T033133Z.png,40,0
 safepay,Safepay Blog,yes,2023-11-10,2026-09-15,569,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/safepay/20260927T033048Z.png,51,0
 bianlian,,no,2022-07-14,2025-03-31,552,,,,0,0
 blackbasta,,no,2022-04-26,2025-01-11,523,,,,0,0
@@ -44,7 +44,7 @@ funksec,,yes,2023-04-13,2025-03-18,172,,,,0,0
 malas,,no,2023-04-09,2023-04-09,170,,,,0,0
 cloak,CAPTCHA Verification,yes,2023-08-24,2026-06-18,166,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/cloak/20260924T033129Z.png,0,0
 shinyhunters,[sh] · queue,yes,2024-04-23,2026-09-24,161,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/shinyhunters/20260927T033141Z.png,0,0
-apt73,BASHE,yes,2024-04-05,2026-07-24,157,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/apt73/20260927T033133Z.png,219,0
+apt73,BASHE,yes,2024-04-05,2026-07-24,157,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/apt73/20260927T033133Z.png,220,0
 spacebears,,yes,2024-04-25,2026-09-23,157,,,,36,0
 silentransomgroup,,yes,2022-06-07,2026-08-27,154,,,,0,0
 krybit,,yes,2026-03-30,2026-09-24,153,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/krybit/20260916T034627Z.png,182,0
@@ -59,10 +59,10 @@ interlock,Interlock,yes,2023-12-01,2026-09-15,126,unknown,no,https://threatclust
 noescape,,no,2023-06-07,2023-11-26,126,,,,0,0
 raworld,,no,2023-04-27,2024-12-28,126,,,,0,0
 pear,403 Forbidden,yes,2023-08-18,2026-09-22,122,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/pear/20260916T033841Z.png,32,0
-genesis,GENESIS,yes,2024-05-07,2026-09-13,117,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/genesis/20260927T033018Z.png,23,0
+genesis,GENESIS,no,2024-05-07,2026-09-13,117,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/genesis/20260927T033018Z.png,23,0
 toufan,,yes,2023-12-17,2023-12-27,117,,,,0,0
-arcusmedia,A r c u s,yes,2024-05-08,2026-09-23,114,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/arcusmedia/20260924T033057Z.png,72,0
-anubis,Anubis blog,yes,2025-02-25,2026-09-22,112,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/anubis/20260916T033510Z.png,92,0
+arcusmedia,A r c u s,yes,2024-05-08,2026-09-27,115,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/arcusmedia/20260924T033057Z.png,72,0
+anubis,Captcha,yes,2025-02-25,2026-09-22,112,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/anubis/20260928T033022Z.png,92,0
 eldorado,,yes,2023-10-19,2025-01-22,112,,,,0,0
 payoutsking,Captcha,yes,2025-04-17,2026-09-23,111,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/payoutsking/20260924T033118Z.png,0,0
 monti,,no,2022-12-07,2025-05-07,110,,,,0,0
@@ -71,9 +71,9 @@ deadlock,Deadlock - Blog,yes,,,101,en,no,https://threatcluster.lon1.digitalocean
 kairos,Kairos,yes,2024-06-26,2026-09-22,97,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/kairos/20260916T033849Z.png,12,0
 medusalocker,Verifying...,yes,2021-11-03,2026-09-23,97,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/medusalocker/20260916T033747Z.png,0,0
 revil,,no,2019-08-26,2022-11-28,96,,,,0,0
-chaos,CHAOS,yes,2025-02-19,2026-09-17,92,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/chaos/20260916T033530Z.png,109,0
+chaos,CHAOS,yes,2025-02-19,2026-09-17,92,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/chaos/20260928T033035Z.png,109,0
 threeam,Enter the key,yes,2023-08-04,2026-09-21,92,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/threeam/20260924T033109Z.png,0,0
-abyss,Abyss-data,no,2023-03-21,2026-08-26,91,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/abyss/20260916T033637Z.png,53,0
+abyss,Abyss-data,yes,2023-03-21,2026-08-26,91,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/abyss/20260916T033637Z.png,53,0
 ransomexx,RansomEXX v2,yes,2020-05-14,2026-06-20,86,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/ransomexx/20260918T033013Z.png,11,0
 braincipher,Brain Cipher Dataleak,yes,2024-07-01,2026-07-22,81,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/braincipher/20260916T034156Z.png,52,1
 lorenz,,no,2020-01-12,2023-12-01,78,,,,0,0
@@ -82,11 +82,11 @@ settra,,yes,2026-06-02,2026-09-11,77,,,https://threatcluster.lon1.digitaloceansp
 cicada3301,,no,2024-06-04,2025-09-04,75,,,,0,0
 karakurt,,no,2022-12-11,2023-09-22,74,,,,0,0
 payload,Payload | Leaks,yes,2026-02-17,2026-08-20,74,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/payload/20260927T033108Z.png,73,0
-beast,,no,2023-12-19,2026-08-30,73,,,,45,0
+beast,,yes,2023-12-19,2026-08-30,73,,,,45,0
 avoslocker,,no,2021-06-13,2023-02-11,70,,,,0,0
 quantum,,no,2021-09-09,2022-12-09,68,,,,0,0
 ransomed,,no,2023-08-21,2023-10-30,68,,,,0,0
-storm,Storm Blog,yes,,,66,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/storm/20260916T034452Z.png,0,1
+storm,Storm Blog,yes,,,67,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/storm/20260916T034452Z.png,0,1
 blacklock,,no,2023-11-27,2025-07-02,64,,,,0,0
 lv,,no,2021-11-22,2022-11-27,63,,,,0,0
 flocker,,no,2024-04-25,2025-07-31,59,,,,0,0
@@ -95,21 +95,21 @@ darkvault,DarkVault,no,2024-02-08,2025-01-06,55,unknown,no,https://threatcluster
 metaencryptor,Metaencrypter blog,yes,2023-08-16,2026-09-25,55,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/metaencryptor/20260924T033124Z.png,77,0
 gunra,G*NRA,yes,2025-04-07,2026-09-04,54,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/gunra/20260916T034631Z.png,0,0
 losttrust,,no,2023-09-26,2023-09-26,53,,,,0,0
-termite,Termite,yes,2023-05-11,2026-09-25,53,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/termite/20260924T033044Z.png,45,0
+termite,Termite,no,2023-05-11,2026-09-25,53,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/termite/20260924T033044Z.png,45,0
 insomnia,Insomnia,yes,2025-02-14,2026-09-15,52,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/insomnia/20260924T033018Z.png,47,0
 ailock,AiLock Data Leaks,yes,2015-04-29,2026-08-26,51,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/ailock/20260916T034028Z.png,60,1
 mallox,,no,2022-11-04,2024-07-14,49,,,,0,0
 tengu,,no,2025-10-23,2026-03-07,49,,,,0,0
 trigona,,no,2023-04-11,2024-03-30,49,,,,0,0
 auditteam,/// DATA EXPOSURE TERMINAL ///,yes,2026-02-21,2026-08-27,48,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/auditteam/20260916T034000Z.png,31,2
-global secret group,Home — Global Secret Group,yes,,,48,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/global_secret_group/20260916T034320Z.png,49,1
+global secret group,Home — Global Secret Group,yes,,,48,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/global_secret_group/20260916T034320Z.png,49,0
 knight,,no,2023-09-06,2024-02-12,48,,,,0,0
 nitrogen,,no,2023-03-29,2026-06-03,48,,,,0,0
 blacknevas,DLS,yes,2023-04-24,2026-09-16,47,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/blacknevas/20260927T033137Z.png,1,0
 crypto24,,yes,2023-12-13,2026-08-31,47,,,,7,0
 orova,Sign In,yes,,,47,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/orova/20260916T034429Z.png,0,2
 midas,,no,2021-11-29,2022-04-14,44,,,,0,0
-securotrop,,yes,2025-06-11,2026-09-18,44,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/securotrop/20260922T033055Z.png,39,0
+securotrop,,no,2025-06-11,2026-09-18,44,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/securotrop/20260922T033055Z.png,39,0
 blackshrantac,,no,2025-09-17,2026-01-16,43,,,,0,0
 cmdorganization,CMD // home,yes,2026-01-25,2026-07-31,43,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/cmdorganization/20260916T034101Z.png,3,1
 donutleaks,,no,2022-08-24,2024-07-24,42,,,,0,0
@@ -126,6 +126,7 @@ helldown,,no,2024-08-05,2024-11-06,36,,,,0,0
 moneymessage,News,yes,2023-01-04,2026-09-21,36,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/moneymessage/20260916T033725Z.png,0,0
 nokoyawa,,no,2022-12-09,2023-08-04,36,,,,0,0
 arvinclub,,no,2021-09-09,2023-10-15,35,,,,0,0
+panzer,Panzer | Blog,yes,,,35,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/panzer/20260916T034415Z.png,0,1
 spook,,no,2021-10-04,2021-10-19,35,,,,0,0
 lamashtu,,yes,2026-04-11,2026-06-17,34,,,,0,0
 dan0n,,yes,2024-03-26,2024-08-23,33,,,,0,0
@@ -133,16 +134,15 @@ obscura,,no,2025-07-16,2026-01-11,33,,,,0,0
 wannacry,,no,2017-05-12,2018-02-23,33,,,,0,0
 blackmatter,,no,2021-09-08,2021-11-04,32,,,,0,0
 marketo,,no,2021-12-07,2022-02-14,32,,,,0,0
-panzer,Panzer | Blog,yes,,,32,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/panzer/20260916T034415Z.png,0,1
 suncrypt,,no,2020-08-24,2022-06-18,32,,,,0,0
 alphalocker,--,yes,2024-01-24,2026-02-28,31,en,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/alphalocker/20260916T034646Z.png,2,0
 dark project,Dark Project,yes,,,30,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/dark_project/20260916T034157Z.png,23,1
+emperador,,yes,,,30,,,,34,1
 frag,,no,2024-09-24,2025-06-12,30,,,,0,0
 bravox,Verification Required,yes,2025-05-15,2026-09-20,29,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/bravox/20260927T033157Z.png,0,0
 payloadbin,,no,2021-09-09,2022-01-06,29,,,,0,0
 l group,,yes,,,28,,,,0,0
 onyx,,no,2022-04-29,2022-11-21,28,,,,0,0
-emperador,,yes,,,27,,,,33,1
 fulcrumsec,Index of /Shame,yes,2026-05-01,2026-09-11,27,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/fulcrumsec/20260924T033128Z.png,28,0
 kelvinsecurity,,no,2022-04-01,2022-05-24,26,,,,0,0
 netwalker,,no,2020-01-31,2020-12-12,26,,,,0,0
@@ -186,10 +186,10 @@ redransomware,,no,2024-03-05,2024-06-11,16,,,,0,0
 vexy ransomware,Vexy Ransomware | Blog,yes,,,16,en,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/vexy_ransomware/20260916T034651Z.png,16,1
 cheers,,no,2022-05-29,2022-09-14,15,,,,0,0
 exfilsquad,,yes,,,15,,,,18,0
+n0n,n0n,yes,,,15,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/n0n/20260922T033017Z.png,23,1
 nefilim,,no,2020-05-05,2021-09-09,15,,,,0,0
 benzona,,no,2025-11-26,2026-01-30,14,,,,0,0
 freecivilian,,no,2022-12-31,2022-12-31,14,,,,0,0
-n0n,n0n,yes,,,14,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/n0n/20260922T033017Z.png,22,1
 orion,Blog - Orion,yes,2025-10-28,2026-07-27,14,en,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/orion/20260916T034618Z.png,21,0
 sparta,,no,2022-09-13,2022-09-22,14,,,,0,0
 weyhro,,no,2024-12-12,2025-08-10,14,,,,0,0
@@ -198,12 +198,12 @@ groove,,no,2021-09-09,2021-10-30,13,,,,0,0
 mindware,,no,2022-05-05,2022-05-05,13,,,,0,0
 barracuda,BARRACUDA,yes,,,12,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/barracuda/20260916T033952Z.png,2,1
 blackout,,yes,2024-02-26,2026-07-19,12,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/blackout/20260927T033201Z.png,0,0
-doommageddon,DOOMMAGEDDON,yes,,,12,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/doommageddon/20260916T034135Z.png,13,0
+doommageddon,DOOMMAGEDDON,yes,,,12,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/doommageddon/20260916T034135Z.png,13,1
 icarus,,yes,2026-05-05,2026-06-23,12,,,,0,0
 imncrew,,yes,2025-05-05,2025-09-16,12,,,,0,0
 teamxxx,,no,2025-02-17,2025-08-03,12,,,,0,0
 blackwater,Blog,yes,2026-04-17,2026-08-24,11,,,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/blackwater/20260927T033055Z.png,22,0
-black x,Black X,yes,,,11,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/black_x/20260916T034032Z.png,0,1
+black x,Black X,yes,,,11,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/black_x/20260916T034032Z.png,0,0
 cryp70n1c0d3,,no,2021-12-18,2021-12-18,11,,,,0,0
 dysphor1a,,yes,,,11,,,,0,0
 icefire,,no,2022-08-20,2022-08-20,11,,,,0,0
@@ -217,7 +217,7 @@ rook,,no,2021-12-07,2022-01-08,9,,,,0,0
 babuk,,no,2020-10-25,2021-07-27,8,,,,0,0
 cryptbb,,no,2022-04-03,2023-08-16,8,,,,0,0
 helix,HELIX - Leaks,yes,,,8,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/helix/20260916T034249Z.png,8,2
-iah6477,cinder,yes,2026-08-20,2026-09-15,8,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/iah6477/20260916T034556Z.png,8,0
+iah6477,cinder,yes,2026-08-20,2026-09-15,8,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/iah6477/20260916T034556Z.png,8,1
 mogilevich,,no,2024-02-20,2024-03-01,8,,,,0,0
 qiulong,,no,2024-04-19,2024-06-24,8,,,,0,0
 radiant,,no,2025-10-12,2025-10-29,8,,,,0,0
@@ -235,7 +235,7 @@ secp0,SECP0 News,yes,2025-03-14,2026-09-22,7,unknown,no,https://threatcluster.lo
 arkana,,no,2025-03-24,2025-06-06,6,,,,0,0
 cipherforce,,no,2026-02-23,2026-02-23,6,,,,0,0
 dataleak,,no,2022-12-02,2022-12-02,6,,,,0,0
-netrunner,NetRunner Leak,yes,2026-04-03,2026-04-03,6,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/netrunner/20260916T033625Z.png,8,0
+netrunner,NetRunner Leak,yes,2026-04-03,2026-04-03,6,en,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/netrunner/20260928T033113Z.png,8,0
 rancoz,,no,2023-05-05,2023-09-03,6,,,,0,0
 redalert,,no,2022-07-14,2022-09-22,6,,,,0,0
 runsomewares,Run Some Wares,yes,2024-06-22,2025-07-10,6,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/runsomewares/20260916T034434Z.png,9,1
@@ -343,7 +343,7 @@ darkbit,,no,,,0,,,,0,0
 darkmatter,,yes,,,0,,,,0,0
 datakeeper,Data Keeper - About,no,2026-01-14,2026-04-22,0,unknown,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/datakeeper/20260916T033713Z.png,0,0
 diavol,,no,,,0,,,,0,0
-dread,DDOS Protection,yes,,2026-04-22,0,unknown,no,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/dread/20260916T033616Z.png,0,0
+dread,Frontpage - Dread,yes,,2026-04-22,0,en,yes,https://threatcluster.lon1.digitaloceanspaces.com/darkweb-groups/dread/20260928T033100Z.png,0,0
 ech0raix,,no,,,0,,,,0,0
 entropy,,no,,,0,,,,0,0
 ep918,,no,,,0,,,,0,0

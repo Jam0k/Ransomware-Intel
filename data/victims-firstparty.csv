@@ -1,4 +1,10 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+incransom,AHEAD,US,,2026-09-28,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab8c47b9cd108bf26e57e79,listed,,yes
+incransom,nsbsd.org,US,Government & Defense,2026-09-28,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab8c97c9cd108bf26e619cd,listed,,yes
+qilin,XICO,MX,,2026-09-27,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=dc126a0f-d8c2-4bee-84ac-31e60c0d895f,listed,,yes
+qilin,Island,CA,Technology,2026-09-27,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=507b6770-93b2-456b-bc96-6e4b2bb9ce72,listed,,yes
+qilin,Revenga Smart Solutions,ES,Technology,2026-09-27,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=afd7850c-c193-4be3-86d1-cac552d102cd,listed,,yes
+qilin,Willatt & Flickinger,US,,2026-09-27,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e61f21e4-4a24-4e6a-8cea-19b6a71f4156,listed,,yes
 everest,Securitas Group,SE,Professional Services,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/securitas-group,listed,,yes
 everest,Morula IVF,ZA,Healthcare,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/morula-ivf,listed,,yes
 everest,Reliance Audit,,Professional Services,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/reliance-audit,listed,,yes
@@ -8,6 +14,7 @@ everest,ETS,,Education,2026-09-25,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwz
 vexy ransomware,Majani Insurance Brokers,KE,Financial Services,2026-09-25,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
 qilin,Iberia Compositech Manufacturing,ES,Manufacturing,2026-09-25,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7216d103-276c-431e-845d-7823ad98e49c,listed,,yes
 incransom,pharma5.ma,MA,Healthcare,2026-09-25,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab630619cd108bf2694b2ef,listed,,yes
+incransom,bnlawmacau.com www.bn-ip.com,MO,Professional Services,2026-09-24,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab5548c9cd108bf2677a835,listed,,yes
 incransom,welgenone.com,US,Healthcare,2026-09-24,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab54bee9cd108bf2676bd94,listed,,yes
 incransom,ukbjja.org,GB,,2026-09-24,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab550cb9cd108bf26772eb9,listed,,yes
 qilin,Dao Group,,Other,2026-09-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=3bb5b6be-ebeb-49cc-a4a2-df18089a38f8,listed,,yes
@@ -496,6 +503,7 @@ safepay,granjarinya.com,ES,Agriculture and Food Production,2026-08-14,http://saf
 global secret group,Columbia University Information (Dental),US,Healthcare,2026-08-14,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/40/,listed,,yes
 clop,ZEBRA.COM,US,Manufacturing,2026-08-14,http://ekbgzchl6x2ias37.onion,listed,,yes
 m3rx,tecnoabi.com,BR,Technology,2026-08-14,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#tecnoabi.com,listed,,yes
+incransom,cambrialawfirm.com,CA,Professional Services,2026-08-13,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7e49da9cd108bf269d76d0,listed,,yes
 dragonforce,GB Group S.A,PL,Financial Services,2026-08-13,http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=172d1161-42f6-4f69-89a0-d401a2be2b54,listed,,yes
 payload,Zara Investment Holding,JO,Financial Services,2026-08-13,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/d137bbd6-880d-4822-9520-80f60c037465,listed,,yes
 ailock,DAISEN,JP,Technology,2026-08-13,http://dhnsppqjaaa22lsqxl2tfhji4ca43743kubltnodvsft3hkvai77p6ad.onion,listed,,yes
