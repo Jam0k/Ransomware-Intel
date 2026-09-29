@@ -346,6 +346,6 @@ Listed in error, or an organisation that wants its entry reviewed:
 
 ## Links
 
-- Browse: [threatcluster.io/dark-web](https://threatcluster.io/dark-web)
+- Browse: [threatcluster.io/dark-web](https://threatcluster.io/dark-web) · [all groups](https://threatcluster.io/dark-web/groups) · [recent victims](https://threatcluster.io/dark-web/victims)
 - IOC feeds (domains, IPs, hashes, wallets): [Public-Feeds-IOCs](https://github.com/Jam0k/Public-Feeds-IOCs)
-- API quick start: [threatcluster.io/api](https://threatcluster.io/api) · client and examples: [Cyber-Threat-Intelligence-API](https://github.com/Jam0k/Cyber-Threat-Intelligence-API)
+- API quick start: [threatcluster.io/api](https://threatcluster.io/api) · [leak-site endpoints](https://threatcluster.io/about/dark-web-api) · client and examples: [Cyber-Threat-Intelligence-API](https://github.com/Jam0k/Cyber-Threat-Intelligence-API)
