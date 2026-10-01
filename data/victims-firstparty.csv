@@ -1,4 +1,14 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+vexy ransomware,Summit Electric Supply,US,Energy & Utilities,2026-09-30,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
+safepay,wolfusofsky.de,DE,,2026-09-30,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/wolfusofskyde/,listed,,yes
+aurora,"Buford-Thompson Company, LTD",US,Manufacturing,2026-09-30,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/buford-thompson-company-ltd-d71d10e7,listed,,yes
+netrunner,P***** M***** I**,,,2026-09-30,http://netrunrsb3bivj5gnwajzxlig5qkteb6edgthxj7fmsvhkzxtwfxwaad.onion,listed,,yes
+emperador,SitePro Rentals,,Other,2026-09-30,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/sitepro-rentals/,listed,,yes
+safepay,econ-tec.com,DE,Technology,2026-09-30,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/econ-teccom/,listed,,yes
+safepay,assist2enjoy.be,BE,Other,2026-09-30,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/assist2enjoybe/,listed,,yes
+n0n,MCAP — MortgageHub commercial lending platform,CA,Financial Services,2026-09-30,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-mclp,listed,,yes
+m3rx,intense.pl,PL,Technology,2026-09-29,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#intense.pl,listed,,yes
+interlock,"Tekko Enterprises, Inc",US,,2026-09-29,http://lkghueqanmlqdr5rxzv7ybwp2c2og3gc5mc2cu7bhfty5s6cgtztzjid.onion/index.php?p=,listed,,yes
 emperador,Polikem,TR,Manufacturing,2026-09-29,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/polikem/,listed,,yes
 gammax,AHeadStart Tutoring,NZ,Education,2026-09-29,http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion/post/FRzrzxYKc3ukS2t8tNJHUikAKFHQqzdJ,listed,,yes
 gammax,"Crowder Industries, Inc",US,Manufacturing,2026-09-29,http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion/post/Vb5ZDvrc6Y8tkE1wUt3gWpWv5JFyEitK,listed,,yes
@@ -13,6 +23,11 @@ braincipher,maxwell-group.com,GB,Other,2026-09-29,http://vkvsgl7lhipjirmz6j5ubp3
 incransom,bcx.co.za,ZA,Technology,2026-09-29,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab535a09cd108bf2674256f,listed,,yes
 vexy ransomware,Groupe Proxitel,TL,Technology,2026-09-29,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
 chaos,carolinaasthma.com,US,Healthcare,2026-09-29,http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/EBMAw6xdj4wpIEZoORa8EhwkJcBfURKu,listed,,yes
+m3rx,oterolaw.com,US,Professional Services,2026-09-29,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#oterolaw.com,listed,,yes
+m3rx,somasolucoes.com,BR,Professional Services,2026-09-29,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#somasolucoes.com,listed,,yes
+m3rx,noonsugar.com,AE,Retail & E-Commerce,2026-09-29,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#noonsugar.com,listed,,yes
+m3rx,iccsi.com,,Professional Services,2026-09-29,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#iccsi.com,listed,,yes
+m3rx,cpacb.com,CA,Professional Services,2026-09-29,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#cpacb.com,listed,,yes
 n0n,Precision Facades Ltd,GB,Manufacturing,2026-09-29,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-precisionfacades,listed,,yes
 netrunner,M*** P**** M***,MY,,2026-09-28,http://netrunrsb3bivj5gnwajzxlig5qkteb6edgthxj7fmsvhkzxtwfxwaad.onion,listed,,yes
 qilin,Arnold Center,US,,2026-09-28,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=d771352d-1892-4420-9c89-4c7858283780,listed,,yes
@@ -117,6 +132,7 @@ endzone,Gomomentum.com,,,2026-09-21,http://endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhe
 qilin,IKEGAMI TSUSHINKI COMPANY LIMITED,JP,Manufacturing,2026-09-21,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=337a2e3e-edbf-4a8e-9b75-157296837da2,listed,,yes
 incransom,SECOND HOUSE,ES,Hospitality,2026-09-21,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab02fa89cd108bf26c5e025,listed,,yes
 incransom,Maryann Kriger,US,,2026-09-21,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab057339cd108bf26ca4f1a,listed,,yes
+dragonforce,arsrenacer.com,AR,Other,2026-09-20,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=01cb9bb7-2f43-4e39-aef6-ef509ed5ecfd,listed,,yes
 emperador,Alabama Woman's Health Care,US,Healthcare,2026-09-20,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/alabama-womans-health-care/,listed,,yes
 auditteam,TEK SPB,RU,Technology,2026-09-20,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/E759D68D977D4EE5,listed,,yes
 auditteam,st***co,IT,,2026-09-20,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/FFD8A9B88CF2335C,listed,,yes
@@ -695,6 +711,7 @@ dark project,"Reid Electric Service, Inc",US,Energy & Utilities,2026-08-05,http:
 spacebears,PontoBR Sistemas,BR,Technology,2026-08-05,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/65/pontobr-sistemas,listed,,yes
 chaos,healthcarehighways.com,US,Healthcare,2026-08-04,http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/NBZQmQoAPXmW7Qw5eSuW98OqyQAmLjgv,listed,,yes
 aurora,GILDE Handwerk Macrander GmbH & Co. KG,DE,Manufacturing,2026-08-04,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/gilde-handwerk-macrander-gmbh-co-kg-bc41d805,listed,,yes
+aurora,"US Installation Group, Inc.",US,Manufacturing,2026-08-04,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/us-installation-group-inc-c666ddd2,listed,,yes
 safepay,pradotuylaw.com,US,Professional Services,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/pradotuylawcom/,listed,,yes
 safepay,naskdoorinc.com,US,Manufacturing,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/naskdoorinccom/,listed,,yes
 safepay,new-point.it,IT,Technology,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/new-pointit/,listed,,yes
@@ -1425,4 +1442,3 @@ securotrop,Mill Bay Marine Group,CA,,2025-10-04,http://securo45z554mw7rgrt7wcgv5
 beast,Garro Fabril,AR,,2025-10-04,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/garro_fabril,listed,,yes
 securotrop,Structural Component Systems,US,Construction,2025-10-02,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 securotrop,Allardyce Bower Consulting,CA,Business Services,2025-10-01,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
-securotrop,JW Howard Attorneys,US,Business Services,2025-09-30,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
