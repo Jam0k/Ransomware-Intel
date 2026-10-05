@@ -1,4 +1,13 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+n0n,Company #3,US,Technology,2026-10-05,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,yes
+n0n,Company #2,CA,Financial Services,2026-10-05,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,yes
+n0n,Company #1,US,Healthcare,2026-10-05,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,yes
+emperador,OMUR HIRDAVAT LTD,TR,Manufacturing,2026-10-04,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/omur-hirdavat-ltd/,listed,,yes
+qilin,Unident Group,US,Other,2026-10-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9501f8ae-1e8a-47fd-a013-668194f42c94,listed,,yes
+qilin,Chadwick Switchboards,AU,Manufacturing,2026-10-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=46714da5-64e5-4821-b64e-bcf49fd74f2b,listed,,yes
+qilin,Emser,ES,Manufacturing,2026-10-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=aa745239-cf1b-4ec5-a46f-99e54c96b9af,listed,,yes
+qilin,Cotesma,CL,Manufacturing,2026-10-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=ee8aa1fc-d377-4bc0-9f11-d4b16c172161,listed,,yes
+qilin,Mutsumi Group,JP,Manufacturing,2026-10-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=cd1c2b1c-0aa5-406c-8add-f6054aeffae6,listed,,yes
 qilin,Genesis Credit Management,US,Financial Services,2026-10-03,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8080b082-a6d7-4f55-9045-b816f0501825,listed,,yes
 netrunner,Precon Marine Inc,,Transportation,2026-10-03,http://netrunrsb3bivj5gnwajzxlig5qkteb6edgthxj7fmsvhkzxtwfxwaad.onion/view/precon,listed,,yes
 spirals,seven seas group,AE,Transportation,2026-10-03,http://spiralstfe7rtbna7zlv6szdwmjvjszf2d64zkf6z5jykrwnw5jbgpyd.onion,listed,,yes
@@ -24,6 +33,7 @@ incransom,Guardian Pharmacy LLC,US,Healthcare,2026-10-01,http://incblog6qu4y4mm4
 incransom,Den Hartog Industries,US,Manufacturing,2026-10-01,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6abe33099cd108bf26974353,listed,,yes
 incransom,Northern Counties Health Care,US,Healthcare,2026-10-01,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6abe3b5a9cd108bf26984b8f,listed,,yes
 incransom,Post Metal Recycling,US,Manufacturing,2026-10-01,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6abe3c919cd108bf26987392,listed,,yes
+emperador,LA PONDEROSA,MX,Agriculture and Food Production,2026-10-01,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/la-ponderosa/,listed,,yes
 qilin,Dynamic Office Solutions,GB,Professional Services,2026-10-01,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=05d5e589-925f-41d9-af30-b533bab25f26,listed,,yes
 aurora,Laboratorios Roemmers SAICF,AR,Healthcare,2026-10-01,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/laboratorios-roemmers-saicf-e9b9df85,listed,,yes
 vexy ransomware,Summit Electric Supply,US,Energy & Utilities,2026-09-30,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
@@ -1473,4 +1483,3 @@ everest,Streebo,US,Technology,2025-10-11,http://ransomocmou6mnbquqz44ewosbkjk3o5
 anubis,Maine Oxy,US,Manufacturing,2025-10-11,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/cYEsBnPfSaq4VsASGWRQ+i9aGEHCEl5iBwrvH4aHEHQ3HrczH1bAJYi8fLGk73h9Ki0N8BC56uLM36dyHVNW5PYlROMG40,listed,,yes
 securotrop,Churchill Claims Services,US,Business Services,2025-10-10,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
 sarcoma,Charter Industrial Supply,US,Manufacturing,2025-10-08,,listed,,yes
-securotrop,Mill Bay Marine Group,CA,,2025-10-04,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
