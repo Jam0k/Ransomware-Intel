@@ -1,4 +1,16 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+redact,"ONEOK, Inc.",US,Energy & Utilities,2026-10-16,http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion,listed,,yes
+vexy ransomware,Data-Core Systems,,Technology,2026-10-16,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
+redact,Parker-Hannifin Corporation,US,Manufacturing,2026-10-16,http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion,listed,,yes
+n0n,Xinos Construction Corp and its accounting group,,Manufacturing,2026-10-16,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-xinos,listed,,yes
+n0n,EnVision Eye Care,,Healthcare,2026-10-16,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-envision,listed,,yes
+pear,Macfarlan Capital Partners,US,Financial Services,2026-10-16,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/macfarlan,listed,,yes
+pear,Solar Communications International,US,Technology,2026-10-16,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/rftransparent,listed,,yes
+pear,Caretaker Landscape and Tree Management,US,Agriculture and Food Production,2026-10-16,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/caretakerlandscape,listed,,yes
+aurora,"Adams Warehouse & Delivery, Inc.",US,Transportation,2026-10-16,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/adams-warehouse-delivery-inc-2c6e2ef7,listed,,yes
+qilin,Via Credit Union,US,Financial Services,2026-10-16,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=0b4690ca-9214-4ddd-b5ca-15aa621e4d0e,listed,,yes
+qilin,Keio Corporation,JP,Transportation,2026-10-15,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=09d2df3d-43e6-4548-9df6-d318272878e0,listed,,yes
+qilin,Kemlows Diecasting Products Limited,GB,Manufacturing,2026-10-15,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=4a91246b-aea6-4278-be5c-8a55947c0bd6,listed,,yes
 qilin,Telcoe Federal Credit Union,US,Financial Services,2026-10-15,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=73b16550-d65c-4aba-a3ee-88b2b44452ca,listed,,yes
 qilin,Segres Systec,ES,Technology,2026-10-15,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c2bff0b0-ad78-414d-b29b-9a3ddfcd59b0,listed,,yes
 qilin,Shield Wall Systems of Florida,US,Government & Defense,2026-10-15,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=17e6b9a4-c3b3-4957-a5ad-65981f83faa6,listed,,yes
@@ -47,6 +59,7 @@ aurora,Rechtsanwaltskanzlei Dr. Bien,DE,Professional Services,2026-10-12,http://
 dark project,Franklin Miller Inc.,US,Manufacturing,2026-10-12,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=franklin-miller-inc,listed,,yes
 dark project,PennEastern Architects LCC,US,Professional Services,2026-10-12,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=penneastern-architects-lcc,listed,,yes
 dark project,Claire's Inc.,US,Retail & E-Commerce,2026-10-12,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=claires-inc,listed,,yes
+interlock,"Pedigo Products, Inc.",US,Manufacturing,2026-10-12,http://cxsoh4p7kgxbk52juhjecupcituwdaoa2kju64i5e5e5yuelak7lu5id.onion/index.php?p=,listed,,yes
 interlock,Valenti Management,CL,Professional Services,2026-10-12,http://7ddxybjonxf54ayahxry24wjnhw3f2vwjv6ccyfk6w5yn2akos4jnhqd.onion/index.php?p=,listed,,yes
 interlock,Concord Eye Center,US,Healthcare,2026-10-12,http://24atwvswwffsq4ofiqmeuoj6g4s6qalgm22rzfgriduupqqdilltasid.onion/index.php?p=,listed,,yes
 interlock,Greentech Environmental,,Energy & Utilities,2026-10-12,http://3ewkdymgvjmjpn2a4gpe2jbgkcldwpjewgyrfnypi5tzkuj2gratpnad.onion/index.php?p=,listed,,yes
@@ -672,6 +685,7 @@ direwolf,Studio Legale ESE,IT,Professional Services,2026-08-25,http://direwolfcd
 global secret group,Tiseo Paving,US,Transportation,2026-08-25,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/Rb2qPykYvPvurucj/,listed,,yes
 global secret group,Johnson City Honda,US,Retail & E-Commerce,2026-08-25,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/AUm9jjHmLf3JmpdJ/,listed,,yes
 global secret group,"Lockheed Architectural Solutions, Inc.",US,Government & Defense,2026-08-25,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/GjZTZjKjC69Si2Bp/,listed,,yes
+shadowbyt3$,Sinar Mas Agribusiness and Food Golden Agri-Resources),ID,Agriculture and Food Production,2026-08-25,https://transfer.it/t/XMX4214zCJrb,listed,,yes
 genesis,S*******,,,2026-08-25,http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/44dfaf172b7515dc1e80/,listed,,yes
 dark project,Pump Engineering Company,US,Manufacturing,2026-08-25,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=pump-engineering-company,listed,,yes
 dark project,"Dentist in New Britain, CT",US,Healthcare,2026-08-25,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=dentist-in-new-britain-ct,listed,,yes
@@ -1653,4 +1667,3 @@ securotrop,Superior Air Parts,US,Manufacturing,2025-10-22,http://securo45z554mw7
 everest,AT&T Careers,US,Telecommunication,2025-10-22,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/att,listed,,yes
 everest,Collins Aerospace / RTX.com,US,Manufacturing,2025-10-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/collinsaerospace/,listed,,yes
 everest,MUSE-INSECURE: Inside Collins Aerospaces Security Failure,,Technology,2025-10-17,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/rtx,listed,,yes
-anubis,Aussie Fluid Power,AU,Manufacturing,2025-10-16,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/+pramV9PZLqGQtQPymaK6dYfpO+n6DjkqLgmqL8LV385aLhqLgG4JPE+8SLLI0JVhKnkLMviwEa9nLoFP1VJHhudU9uUWVo,listed,,yes
