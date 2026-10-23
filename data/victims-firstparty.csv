@@ -1,4 +1,12 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+qilin,Coop Italia,IT,Retail & E-Commerce,2026-10-23,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=89d7c5b8-8f98-4fac-913f-ba1444ae103a,listed,,yes
+qilin,SEPIVER,MX,,2026-10-22,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9dba0158-69cd-4424-b35c-2b4b5cce4c0b,listed,,yes
+qilin,United Restaurant Supply,US,Hospitality,2026-10-22,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=cc010905-a668-4910-8410-adc72cc57e25,listed,,yes
+qilin,Airtificial,,Technology,2026-10-22,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e61e9508-01d9-4a67-8a12-a36f2c007b54,listed,,yes
+qilin,Bathurst RSL,AU,Hospitality,2026-10-22,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=84db184e-ae41-4eb4-831e-9280ea28645e,listed,,yes
+qilin,Creative Universe,AU,Other,2026-10-22,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=5d231c1f-fd47-43c4-9e64-4ccefc5333af,listed,,yes
+everest,PWC,GB,Professional Services,2026-10-22,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/pwc,listed,,yes
+spacebears,"SGLA (Schwartz, Giannini, Lantsberger & Adamson)",US,Professional Services,2026-10-22,http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/80/sgla-schwartz-giannini-lantsberger-adamson,listed,,yes
 everest,Linebarger Goggan Blair & Sampson,US,Professional Services,2026-10-22,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/linebarger-goggan-blair-sampson,listed,,yes
 braincipher,novagroupgbc.com,GB,Other,2026-10-21,http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/novagroupgbc-com,listed,,yes
 braincipher,oflaherty-law.com,IE,Professional Services,2026-10-21,http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/oflaherty-law-com,listed,,yes
@@ -10,6 +18,8 @@ braincipher,olyortho.com,US,Healthcare,2026-10-21,http://vkvsgl7lhipjirmz6j5ubp3
 braincipher,mvjllp.com,,,2026-10-21,http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/mvjllp-com,listed,,yes
 aurora,Allmand-Smith Limited,GB,Manufacturing,2026-10-21,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/allmand-smith-limited-64870e71,listed,,yes
 interlock,Coastal Alabama Community College,US,Education,2026-10-21,http://fet6auoqx6nr4qx6xswp4nlygn65x7i5bs2wwpsddlfgeq3znlybihad.onion/index.php?p=,listed,,yes
+helix,Westrock Coffee,US,Retail & E-Commerce,2026-10-21,http://helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion/p/0ceb11ce8af51bad973b497a2c560e41d7b9b08d3740d9a9f370e619b8e1bbe6,listed,,yes
+helix,Hypertherm,US,Manufacturing,2026-10-21,http://helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion/p/a4f01182d926d93a27bc4d8b3a6b3da14d3f2c7faf2c7847000dd417c6937623,listed,,yes
 everest,PLD Group,,Other,2026-10-21,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/pld-group,listed,,yes
 everest,Lindauer Dornier,DE,Manufacturing,2026-10-21,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/lindauer-dornier,listed,,yes
 everest,Lanham Associates,,Professional Services,2026-10-21,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/lanham-associates,listed,,yes
@@ -1754,8 +1764,3 @@ killsec,J AND S Electrical And Lighting Sup...,US,Manufacturing,2025-10-23,,list
 killsec,FAAB Invest Advisors Private Limite...,IN,Financial Services,2025-10-23,,listed,,yes
 killsec,"DUC App: Global Money Movement, Sim...",CA,Technology,2025-10-23,,listed,,yes
 killsec,iCare Software,US,Technology,2025-10-23,,listed,,yes
-anubis,Goodfellow & Schuettlaw,,,2025-10-23,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/aWp0hFQIqkWMJCRmweY8S3cP+m7DVeEdxxWO0HDPxZAC1rOAHXNTTgmprW0oQOEcN4LcXZZu5JpnN4xJY7xEEJvZWdkelQz,listed,,yes
-anubis,Paterson & Dowding Family Lawyers,AU,Business Services,2025-10-23,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ylT8ETgghDfrKnFidvOIC8Dcnm76+F5nIGlsZGTf2BeWIbycjfJkEBwWBw+dlRjRBm7RYKG6ChGMH2PMSPMOKXh1Z0Jtdlo3,listed,,yes
-embargo,ACTi.com,TW,Technology,2025-10-22,http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion/#/post/7e0fe038-1185-4f6e-9a51-e43e56889e20,listed,,yes
-securotrop,Superior Air Parts,US,Manufacturing,2025-10-22,http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,listed,,yes
-everest,AT&T Careers,US,Telecommunication,2025-10-22,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/att,listed,,yes
