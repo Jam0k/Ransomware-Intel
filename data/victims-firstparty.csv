@@ -1,4 +1,14 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+anubis,"Newcomer Cremations, Funerals & Receptions",US,Healthcare,2026-10-25,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/cADQ8Jkbtn5C1uHUgOSy7MhG4AZEsyOS7U7m4RtAci7a+ZH1yzDdeAFPMZHJshlsPYVEYyCkU1bJSlIhA1NBFlxNkIxTzRW,listed,,yes
+qilin,Castle Howard Estate,GB,Hospitality,2026-10-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=65926679-0b3a-43f2-9283-4ac16718f881,listed,,yes
+qilin,"Heber City, UT",US,Government & Defense,2026-10-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=4fe293ad-edc1-48e2-8133-b5791210b221,listed,,yes
+emperador,Phoenix S&S GmbH,DE,Manufacturing,2026-10-24,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/phoenix-ss-gmbh/,listed,,yes
+emperador,Frommann Energie GmbH,DE,Energy & Utilities,2026-10-24,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/frommann-energie-gmbh/,listed,,yes
+qilin,SLTN Inter Access,NL,,2026-10-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=26c12489-06a5-468e-99cc-08324104c5b6,listed,,yes
+n0n,Asisken Asistencia Médica S.A.,AR,Healthcare,2026-10-24,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-asisken,listed,,yes
+n0n,"Adirondack Networks, Inc.",US,Technology,2026-10-24,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-adk,listed,,yes
+n0n,Arthritis Center of Riverside,US,Healthcare,2026-10-24,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-acr,listed,,yes
+qilin,Commonwealth Community Bank,US,Financial Services,2026-10-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2d2e6643-c329-47b5-a8b7-37f084a60882,listed,,yes
 deadlock,Trinity Custom Homes,US,Manufacturing,2026-10-24,http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion,listed,,yes
 deadlock,Hensel Elektrik,DE,Manufacturing,2026-10-23,http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion,listed,,yes
 qilin,von Schaewen,DE,Other,2026-10-23,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=aafbe9f6-de87-410b-a943-ba532627bcb4,listed,,yes
@@ -1396,6 +1406,7 @@ payload,G Theodor Freese,DE,Manufacturing,2026-05-21,http://payloadrz5yw227brtbv
 payload,A-Sonic Logistic Solutions,,Transportation/Logistics,2026-05-21,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/8c920770-c009-405a-9404-bb857715e3eb,listed,,yes
 payload,Internal Medicine and Pediatrics of Cullman,US,Healthcare,2026-05-21,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/2b8ea072-6d08-4063-a1b1-fd3d0e0296e6,listed,,yes
 payload,Robinsons,SG,Consumer Services,2026-05-21,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/a2c7fa7b-5ee7-488b-a289-aa198eea5bee,listed,,yes
+qilin,WNS Lowery,US,Business Services,2026-05-20,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e4c4a268-d65e-48e5-8e4c-7cb4de80c2f4,listed,,yes
 payload,Tang Seng Nitrogen & Pump Systems Pte. Ltd.,SG,Manufacturing,2026-05-19,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/acf6bc9f-c454-47cd-9ffd-36fbf55b0dc3,listed,,yes
 payload,Elohim Law Corporation,SG,Business Services,2026-05-19,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/10ce6aac-4a2d-4f5e-880c-943d762afcc7,listed,,yes
 payload,Kabushiki Gaisha Hodozuka Setsubi,JP,Manufacturing,2026-05-19,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/fd10449c-7db5-41f0-8648-5c2b76887f25,listed,,yes
