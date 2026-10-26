@@ -1,4 +1,19 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+aurora,Ernesto Malvestiti S.p.A.,IT,Manufacturing,2026-10-26,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/ernesto-malvestiti-spa-5630b059,listed,,yes
+dragonforce,"Inside Passage Electric Cooperative, Inc",US,Energy & Utilities,2026-10-26,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=d9cdd791-1aca-4ea3-b52a-41127d2f2499,listed,,yes
+payload,Glückauf-Vermessung GmbH,DE,Professional Services,2026-10-26,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/3197b3f0-551f-4cb8-8889-a04289a9c919,listed,,yes
+payload,Miletic GmbH,DE,,2026-10-26,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/567ce391-f79d-44ad-8c69-9f4eb8849ac5,listed,,yes
+payload,Edelstahl-Mechanik GmbH,DE,Manufacturing,2026-10-26,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/ffd64ce9-b420-4a77-8c75-0ff036a554ea,listed,,yes
+qilin,White & Case,US,Professional Services,2026-10-25,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=adf72c1b-5f84-4959-bf7d-f579627226d8,listed,,yes
+qilin,Hossner-Textil GmbH,DE,Manufacturing,2026-10-25,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b81cc1f3-ee33-4523-af14-0773ff1c0a28,listed,,yes
+qilin,Ooredoo Myanmar,MM,Technology,2026-10-25,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=4312e44d-f577-4b57-a258-fd7accd876fa,listed,,yes
+falcon,Weitz & Luxenberg,US,Professional Services,2026-10-25,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion/downloads/WeitzLuxenberg.7z,listed,,yes
+emperador,A-RMS,,Government & Defense,2026-10-25,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/a-rms/,listed,,yes
+qilin,ECOM,CH,Retail & E-Commerce,2026-10-25,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=a4fdb00c-982a-46c2-84b5-d677a46b461c,listed,,yes
+emperador,AyT COMPUTERS SRL,,Technology,2026-10-25,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/ayt-computers-srl/,listed,,yes
+qilin,ETO,DE,,2026-10-25,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=28ffde2f-d6d4-4bf0-abf4-bd573823f3e0,listed,,yes
+n0n,Andrews Advisory Group LLC,US,Professional Services,2026-10-25,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-andrews,listed,,yes
+emperador,AB InBev,BE,Agriculture and Food Production,2026-10-25,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/ab-inbev/,listed,,yes
 anubis,"Newcomer Cremations, Funerals & Receptions",US,Healthcare,2026-10-25,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/cADQ8Jkbtn5C1uHUgOSy7MhG4AZEsyOS7U7m4RtAci7a+ZH1yzDdeAFPMZHJshlsPYVEYyCkU1bJSlIhA1NBFlxNkIxTzRW,listed,,yes
 qilin,Castle Howard Estate,GB,Hospitality,2026-10-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=65926679-0b3a-43f2-9283-4ac16718f881,listed,,yes
 qilin,"Heber City, UT",US,Government & Defense,2026-10-24,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=4fe293ad-edc1-48e2-8133-b5791210b221,listed,,yes
@@ -1784,5 +1799,3 @@ beast,GeBePro,DE,,2025-10-27,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw
 beast,"Bolt Electricity, Oil & Gas",,Energy,2025-10-27,http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/bolt_electricity__oil___gas,listed,,yes
 crypto24,Meinhardt Group,SG,Construction,2025-10-27,,listed,,yes
 everest,Dublin Airport,IE,Transportation/Logistics,2025-10-26,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/dublinairport/,listed,,yes
-everest,Air Arabia,AE,Transportation/Logistics,2025-10-25,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/airarabia,listed,,yes
-everest,Svenska Kraftnät,SE,Energy,2025-10-25,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/svk,listed,,yes
