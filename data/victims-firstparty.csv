@@ -1,4 +1,16 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+emperador,TWICE SRL,,,2026-10-27,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/twice-srl/,listed,,yes
+aurora,GreenbergFarrow,,Professional Services,2026-10-27,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/greenbergfarrow-36210065,listed,,yes
+qilin,NuVista Federal Credit Union,US,Financial Services,2026-10-27,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=72e067c2-9c4e-48b2-8618-0e18161f2d3b,listed,,yes
+qilin,Hawaii Law Enforcement Fedral Credit Union,US,Financial Services,2026-10-27,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=300a350a-8537-417a-951f-c301e051f9b2,listed,,yes
+everest,OR Technology,,Technology,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/or-technology,listed,,yes
+everest,Burris & MacOmber,,Professional Services,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/burris-macomber,listed,,yes
+everest,Energy Storage Terminal in Singapore,SG,Energy & Utilities,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/energy-storage-terminal-in-singapore,listed,,yes
+everest,Point Robotics,,Technology,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/point-robotics,listed,,yes
+everest,Natuzzi,IT,Manufacturing,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/natuzzi,listed,,yes
+everest,TECNA ICE,IT,Manufacturing,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/tecna-ice,listed,,yes
+everest,MediSolution,,Healthcare,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/medisolution,listed,,yes
+everest,SleepEx LabRetriever,,Healthcare,2026-10-27,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/sleepex-labretriever,listed,,yes
 dragonforce,Zhito Technology,UA,Technology,2026-10-27,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=b5266570-4a43-46d7-8cad-ad569be1b82c,listed,,yes
 emperador,Afflelou,FR,Retail & E-Commerce,2026-10-26,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/afflelou/,listed,,yes
 falcon,Beasley Allen Law Firm,US,Professional Services,2026-10-26,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion/downloads/beasleyallen.7z,listed,,yes
@@ -6,6 +18,7 @@ qilin,RaceTrakka,AU,Retail & E-Commerce,2026-10-26,http://ijzn3sicrcy7guixkzjkib
 qilin,Smith Feddeler & Smith,US,Professional Services,2026-10-26,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=a4395935-c6d1-43f1-9390-313f31b2677d,listed,,yes
 auditteam,Safe Data Storage,GB,Technology,2026-10-26,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/F1BC17AA5D133FA6,listed,,yes
 emperador,TRANSPORTES JIMENEZ and REYES JIM REY S.A.,MX,Transportation,2026-10-26,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/transportes-jimenez-and-reyes-jim-rey-sa/,listed,,yes
+doommageddon,Referans Lab Ref-Lab,TR,Technology,2026-10-26,http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion/victim/rb-r-l,listed,,yes
 aurora,Ernesto Malvestiti S.p.A.,IT,Manufacturing,2026-10-26,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/ernesto-malvestiti-spa-5630b059,listed,,yes
 dragonforce,"Inside Passage Electric Cooperative, Inc",US,Energy & Utilities,2026-10-26,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=d9cdd791-1aca-4ea3-b52a-41127d2f2499,listed,,yes
 payload,Glückauf-Vermessung GmbH,DE,Professional Services,2026-10-26,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/3197b3f0-551f-4cb8-8889-a04289a9c919,listed,,yes
@@ -1801,5 +1814,3 @@ securotrop,Pocatello Ready Mix,US,Construction,2025-11-08,http://securo45z554mw7
 anubis,Dermatology Associates,,Healthcare,2025-11-06,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/16PgHcQZZ6puf1n71XgMPzLqmOv+tWE4ptmN4Ionax+OJpUc+6zGujgf2m1MYZqXuENg6nNTFSnIn1AzFsnBvWXJiSHk4,listed,,yes
 anubis,Mayco International,US,Manufacturing,2025-11-03,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/+Ux7ZGwb+wgrPFOpEZAPcrEbDNULtEza6f7gmyh1TvoWxcevgNeFRvtThKLhZ0VfAIHZqLM8p1w++ZKWbeZS+kY2ajUxTE1k,listed,,yes
 everest,AT&T Careers - Database Leaked,US,Telecommunication,2025-10-28,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/att,listed,,yes
-everest,MotorsportMarkt.de,DE,,2025-10-27,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/MotorsportMarkt.de,listed,,yes
-everest,ANIA KRUK,PL,,2025-10-27,http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/ANIA_KRUK,listed,,yes
