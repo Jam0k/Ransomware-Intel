@@ -1,4 +1,24 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
+qilin,Astino Berhad,MY,Manufacturing,2026-11-02,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=aae3cb79-ce01-47cc-9baf-203897aa7031,listed,,no
+akira,Princeton Management,,Financial Services,2026-11-02,http://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion,listed,,no
+akira,Usnext,,,2026-11-02,http://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion,listed,,no
+akira,Howells Motor Freight,US,Transportation,2026-11-02,http://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion,listed,,no
+safepay,deom.be,BE,,2026-11-02,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/deombe/,listed,,no
+hyflock,Ateşsan Ambalaj,TR,Manufacturing,2026-11-02,http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1793613600669903668_nflqNrzX,listed,,no
+pear,"Neiman & Company, Inc.",US,Financial Services,2026-11-02,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/neimanandco,listed,,no
+n0n,Company #117,US,,2026-11-02,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,no
+n0n,Company #116,US,,2026-11-02,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,no
+n0n,Company #115,US,,2026-11-02,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,no
+n0n,Company #114,US,,2026-11-02,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,no
+n0n,Company #113,US,,2026-11-02,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,listed,,no
+byod,Michigan State University,US,Education,2026-11-02,http://byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion,listed,,no
+lockbit5,synergy.co.id,ID,,2026-11-01,http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/4dd29260c09708342891c8d4ea0c79bd,listed,,no
+shiba,Tema Hwt,DE,,2026-11-01,http://shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion,listed,,no
+qilin,"fzmb GmbH, Forschungszentrum für Medizintechnik und Biotechnologie",DE,Healthcare,2026-11-01,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=f918b640-c055-4fcc-b9b3-7390a58342b0,listed,,no
+qilin,Global Holding,,Other,2026-11-01,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=f798ff42-e5ce-4083-aa53-6970b95c2e94,listed,,no
+whitearmor,AmplifAI (GoDaddy instance),US,Technology,2026-11-01,http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion,listed,,no
+direwolf,My Cloud Grocer,GB,Retail & E-Commerce,2026-11-01,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/141,listed,,no
+hyflock,hitech group,US,Technology,2026-11-01,http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1793537415370536462_RETglyLa,listed,,no
 qilin,"Shibata Co., Ltd.",JP,Manufacturing,2026-11-01,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9fc02330-a582-41e8-8596-a67b32f328b6,listed,,no
 qilin,Meshbesher & Spence,US,Professional Services,2026-11-01,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=cd00e89b-b72f-44d6-8a4b-c68ede30d7cf,listed,,no
 qilin,BKV Vasúti Jármjavító Kft,HU,Transportation,2026-11-01,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=43ef0007-0712-4f6d-a730-165f08b8b49c,listed,,no
@@ -11,7 +31,7 @@ qilin,Danser,US,Other,2026-11-01,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4m
 vexy ransomware,System Soft,BG,Technology,2026-10-31,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,no
 vexy ransomware,JHAMF Group,BD,,2026-10-31,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,no
 emperador,Punta Shopping,UY,Retail & E-Commerce,2026-10-31,http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/punta-shopping/,listed,,no
-nightspire,**F*A *.A,,,2026-10-31,http://nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion,listed,,no
+nightspire,**F*A *.A,,,2026-10-31,http://a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion,listed,,no
 qilin,"Community Medical Center, Falls City Nebraska",US,Healthcare,2026-10-31,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=769ab6ef-0999-44e0-8cf6-cb9498a66da8,listed,,no
 payload,Straze Garden Center,,Retail & E-Commerce,2026-10-31,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/a59d7a17-77a1-4fb0-8fd7-e654cc68e7d3,listed,,no
 payload,Kraft Lernen,DE,Education,2026-10-31,http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/8617c7b3-94eb-433d-b213-a1732b2f081b,listed,,no
@@ -1924,8 +1944,8 @@ metaencryptor,ST Engineering,SG,Government & Defense,2026-09-07,https://metacrpt
 metaencryptor,"Hologic, Inc.",US,Healthcare,2026-09-07,https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:1b1f881b5082e0d983b217312555559ddcb10de358316f06a3bf10a138abcbf0/0AFC:c6f1ac7aa4e7fd8391f8e61c78267b00044613c3e3a22a2a7f54ea5349e41918,listed,,yes
 vexy ransomware,LIBRERIA SANTA FE A P S SRL,AR,Retail & E-Commerce,2026-09-07,http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion,listed,,yes
 kazu,MSM Unify: Global Education Platform - CA,CA,Education,2026-09-07,http://kazuuyscnd6emsrzkpelzxgxvro2wgrngku4g7btuunsandnjv5f52ad.onion,listed,,no
-shadowbyt3$,Ben Leeds Properties WARNING,GB,Other,2026-09-07,https://mega.nz/notpublishedyetbutwillbesoon,listed,,no
 shadowbyt3$,Ben Leeds Properties,GB,Other,2026-09-07,https://mega.nz/notpublishedyetbutwillbesoon,listed,,yes
+shadowbyt3$,Ben Leeds Properties WARNING,GB,Other,2026-09-07,https://mega.nz/notpublishedyetbutwillbesoon,listed,,no
 shinyhunters,Medela.com,CH,Healthcare,2026-09-07,http://toolatedhs5dtr2pv6h5kdraneak5gs3sxrecqhoufc5e45edior7mqd.onion,listed,,no
 dragonforce,rubbermill.com,US,Manufacturing,2026-09-06,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=dabd2c16-5f55-49a2-acd5-28d1de9052f7,listed,,yes
 dragonforce,Homewood Sales,US,Retail & E-Commerce,2026-09-06,http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=6483b94b-84e1-4416-947f-2591eb728a83,listed,,yes
@@ -3169,55 +3189,3 @@ qilin,Galvin Brothers,IE,Manufacturing,2026-08-04,http://ijzn3sicrcy7guixkzjkib4
 qilin,RUPP Spritzguss,DE,Manufacturing,2026-08-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7d3f7328-c23f-4a74-a9ec-35bfe6c4cfc7,listed,,no
 krybit,cesmac.edu.br,BR,Education,2026-08-04,http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/98034986f71e8a5131e7280b8b7c57546b838f6e5a11d9f1424929837cc56b23/,listed,,no
 incransom,TRULITE GLASS & ALUMINUM SOLUTIONS,US,Manufacturing,2026-08-04,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a72219f9cd108bf2638cb21,listed,,no
-play,First Tek,TW,Technology,2026-08-04,http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=02Wdfxsv6gbx6,listed,,no
-play,Preferred Financial Group,US,Financial Services,2026-08-04,http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=viSDXILZNN4WA,listed,,no
-thegentlemen,TopMark Funding,US,Financial Services,2026-08-04,http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion,listed,,no
-thegentlemen,Control Concepts Technology,US,Technology,2026-08-04,http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion,listed,,no
-chaos,healthcarehighways.com,US,Healthcare,2026-08-04,http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/NBZQmQoAPXmW7Qw5eSuW98OqyQAmLjgv,listed,,yes
-orova,ADG Healthcare,EG,Healthcare,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/8C3RLZ5LC2RUJVV4AVXRNS2L,listed,,no
-orova,eSysTech,BR,Technology,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/TK3XIS3LVZR0YWB694O4BKMR,listed,,no
-orova,Northeastern Communications & Electrical,US,Energy & Utilities,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/GA9F7MUZV4DPGKP9DNPWEACC,listed,,no
-orova,Apollo Office System,JP,Other,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/N0BDMFFR9KLLCLCINNEHVEME,listed,,no
-orova,EMPYREAN INT’L TECHNO DEVICES,TW,Technology,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/8DHYQG0ERT0D6MDO6AI72CNI,listed,,no
-orova,Texas Medical Screening,US,Healthcare,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/QGI2RAUMHTYNAGWNA0UJU3YI/,listed,,no
-orova,Sc Regional Housing Authority,US,Government & Defense,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/YXTWCTF348AT3YCXW3N7B0X7/,listed,,no
-orova,Bjs Insurance & Financial,US,Financial Services,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/R5OMLGMHOSZAZC6LSTGV8WGX,listed,,no
-orova,Wisdom Oral Surgery,US,Healthcare,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/L2WWG21J58I7DK5T1Q9BEYUY,listed,,no
-orova,SURE TRAVEL COMPANY,HK,Hospitality,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/9I5J2VL7I2NS4E5IGI9K6TTN,listed,,no
-gunra,worldtube,KR,Technology,2026-08-04,http://lgiil72vkmdtbc3qv4tyq6wedyjxqr2qd4ze7xl2cxgerdnymxj7soqd.onion,listed,,no
-qilin,WD Masonry & Concrete,US,Other,2026-08-04,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=27ce89ea-880f-403b-b134-77994baad834,listed,,no
-akira,University SprinklerSystems,,Manufacturing,2026-08-04,http://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion,listed,,no
-orova,SBI Manufacturing,US,Manufacturing,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/XM3YG3Y4UOWUP66PASYQ8ZXA,listed,,no
-orova,Agricultural Chemical Solutions,US,Agriculture and Food Production,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/MPPXL1NVUEHG3ZWS87E1LKNT,listed,,no
-orova,DBM Reflex,TW,Other,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/BUXWWRKKK6752KN9VLOVGNXR,listed,,no
-orova,Ultra Fame,TW,Other,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/3428GB90S19A3UBZM9L1RL3B,listed,,no
-orova,Cardiology Associates,US,Healthcare,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/AO788S7YVZTHJPG961FCLJ6N/,listed,,no
-orova,Yost Home Improvements,US,Retail & E-Commerce,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/GKCUYPW29IUFIXIZBDBSZWZZ/,listed,,no
-orova,KINGSSON,TW,Other,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/X4YDNG6I4JBP1BH1MLA479JO,listed,,no
-orova,SSI HOLDING (FAR EAST) LIMITED,HK,Other,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/KSMUHIRW9GDHKYWG6Z45T2L5/,listed,,no
-orova,"Sanrio Hong Kong Co., Ltd",HK,Retail & E-Commerce,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/TZTUB9SLALEZ3P5FZ3/,listed,,no
-orova,"Tat Fung Textile Co., Ltd.",HK,Manufacturing,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/2385C7ADSC4S2I2RPF/,delisted,2026-09-10,no
-orova,Integrated Site Management,US,Professional Services,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/JBP18FNRGE40YTF0FQ/,delisted,2026-09-10,no
-orova,"Conceptual Designs, Inc.",US,Other,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/94A331M9JXPLQTHY0U/,delisted,2026-09-10,no
-orova,JK Capital Management Limited,HK,Financial Services,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/VVZYJSY5S9Y4751EQ2/,delisted,2026-09-10,no
-orova,"Global Friction Products, Inc",US,Manufacturing,2026-08-04,http://mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion/43RU1EPZMX4XEKNSIW/,delisted,2026-09-10,no
-aurora,GILDE Handwerk Macrander GmbH & Co. KG,DE,Manufacturing,2026-08-04,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/gilde-handwerk-macrander-gmbh-co-kg-bc41d805,listed,,yes
-aurora,"US Installation Group, Inc.",US,Manufacturing,2026-08-04,http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/us-installation-group-inc-c666ddd2,listed,,yes
-incransom,pushidrosal.id,ID,Other,2026-08-04,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7152689cd108bf261e08da,listed,,no
-incransom,lccgroup.com,PH,Professional Services,2026-08-04,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7152ea9cd108bf261e1d04,listed,,no
-incransom,https://geleximco.vn/,VN,Manufacturing,2026-08-04,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7153669cd108bf261e30d1,listed,,no
-incransom,clintonhealthaccess.org,US,Healthcare,2026-08-04,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a713ccd9cd108bf261acf63,listed,,no
-incransom,Oleoductos del Valle,AR,Energy & Utilities,2026-08-04,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a5e4dc55ae71db30c1d10a0,listed,,no
-qilin,Universitatea De Vest Vasile Goldi Din Arad,RO,Education,2026-08-03,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=46c8aeeb-a905-4da9-a0ad-0401db795e12,listed,,no
-safepay,pradotuylaw.com,US,Professional Services,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/pradotuylawcom/,listed,,yes
-safepay,naskdoorinc.com,US,Manufacturing,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/naskdoorinccom/,listed,,yes
-safepay,new-point.it,IT,Technology,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/new-pointit/,listed,,yes
-safepay,simonrack.com,ES,Manufacturing,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/simonrackcom/,listed,,yes
-safepay,hanan-hov.co.il,IL,Other,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/hanan-hovcoil/,listed,,no
-anubis,BLACKBURN'S,US,Healthcare,2026-08-03,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/hfDLeO6xZ4jmk5AWhpsnRrMuiPkYcZKs4htoe6Ho8pfKEQbLmAaM4ovMYFKh7sVffACO4H02oyhVuDd2sEGViM2dCSUx1,listed,,yes
-anubis,Cameron Regional Medical Center,US,Healthcare,2026-08-03,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/usUR8TUlfLeHFYPPN5JwVWTYmPzxSTnEcXbNRRhwUUEirKTfvCinYbJW32928eNb6n7YzOIQ3b4KNa1+yq7dEVrcXFBcmox,listed,,yes
-safepay,azn.co.jp,JP,Retail & E-Commerce,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/azncojp/,listed,,no
-safepay,southshorerecycling.com,US,Manufacturing,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/southshorerecyclingcom/,listed,,no
-safepay,cpu-ag.com,DE,Manufacturing,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/cpu-agcom/,listed,,yes
-safepay,multiaqua.com,US,Agriculture and Food Production,2026-08-03,http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/multiaquacom/,listed,,yes
-anubis,Winn-Dixie,US,Retail & E-Commerce,2026-08-03,http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/wvOEih7m+Tf599zsStaXU1yRskZw5HT6zjXXAUGJMYq20GkboGqr4On4jOxutE4Z8dg8RAN5Fhf2Mj1PdUTWRJRnJuYjJH,listed,,yes
