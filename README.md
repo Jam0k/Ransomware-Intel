@@ -7,14 +7,14 @@ history is a timestamped record.
 **TLP:CLEAR** — free to use, redistribute, and integrate. Attribution appreciated.
 
 <!--STATS-->
-_Last updated: 2026-11-11 14:40 UTC_
+_Last updated: 2026-11-12 15:33 UTC_
 
 | | |
 |---|---|
-| Ransomware groups tracked | **165** |
-| Victims, last 90 days | **3,222** |
-| Victims, last 365 days | **10,124** |
-| Victims read first-hand from leak sites | **1,913** |
+| Ransomware groups tracked | **163** |
+| Victims, last 90 days | **3,271** |
+| Victims, last 365 days | **10,202** |
+| Victims read first-hand from leak sites | **1,911** |
 | Onion addresses catalogued | **671** (89 confirmed up at last probe) |
 | Known data breaches | **0** |
 <!--/STATS-->
@@ -135,28 +135,28 @@ Every active group, linked to its ThreatCluster page (leak-site status, mirrors,
 claimed victims, our own screenshot). Regenerated daily.
 
 <!--GROUPS-->
-_165 active groups; top 150 by claimed victims._
+_163 active groups; top 150 by claimed victims._
 
 | Group | Claimed victims | Read first-hand | Last seen |
 |---|---:|---:|---|
-| [qilin](https://threatcluster.io/dark-web/group/qilin) | 2,571 | 241 | 2026-10-17 |
+| [qilin](https://threatcluster.io/dark-web/group/qilin) | 2,575 | 241 | 2026-10-17 |
 | [lockbit3](https://threatcluster.io/dark-web/group/lockbit3) | 2,016 | 71 | 2025-12-05 |
-| [akira](https://threatcluster.io/dark-web/group/akira) | 1,675 | 0 | 2026-11-06 |
+| [akira](https://threatcluster.io/dark-web/group/akira) | 1,678 | 0 | 2026-11-11 |
 | [clop](https://threatcluster.io/dark-web/group/clop) | 1,303 | 139 | 2026-09-10 |
-| [incransom](https://threatcluster.io/dark-web/group/incransom) | 992 | 77 | 2026-10-15 |
+| [incransom](https://threatcluster.io/dark-web/group/incransom) | 1,041 | 77 | 2026-10-15 |
 | [dragonforce](https://threatcluster.io/dark-web/group/dragonforce) | 667 | 55 | 2026-10-14 |
-| [safepay](https://threatcluster.io/dark-web/group/safepay) | 613 | 113 | 2026-10-12 |
+| [safepay](https://threatcluster.io/dark-web/group/safepay) | 612 | 113 | 2026-10-12 |
 | [everest](https://threatcluster.io/dark-web/group/everest) | 429 | 249 | 2026-10-17 |
 | [lynx](https://threatcluster.io/dark-web/group/lynx) | 417 | 0 | 2026-08-27 |
 | [lockbit5](https://threatcluster.io/dark-web/group/lockbit5) | 398 | 183 | 2026-10-16 |
 | [nightspire](https://threatcluster.io/dark-web/group/nightspire) | 367 | 24 | 2026-10-13 |
 | [rhysida](https://threatcluster.io/dark-web/group/rhysida) | 317 | 0 | 2026-10-11 |
 | [killsec](https://threatcluster.io/dark-web/group/killsec) | 286 | 237 | 2026-09-18 |
-| [n0n](https://threatcluster.io/dark-web/group/n0n) | 220 | 92 |  |
+| [n0n](https://threatcluster.io/dark-web/group/n0n) | 222 | 92 |  |
 | [ransomhouse](https://threatcluster.io/dark-web/group/ransomhouse) | 215 | 0 | 2026-10-05 |
 | [silentransomgroup](https://threatcluster.io/dark-web/group/silentransomgroup) | 199 | 0 | 2026-08-27 |
 | [handala](https://threatcluster.io/dark-web/group/handala) | 175 | 0 | 2026-04-07 |
-| [krybit](https://threatcluster.io/dark-web/group/krybit) | 174 | 226 | 2026-10-04 |
+| [krybit](https://threatcluster.io/dark-web/group/krybit) | 175 | 226 | 2026-10-04 |
 | [funksec](https://threatcluster.io/dark-web/group/funksec) | 172 | 0 | 2025-03-18 |
 | [shinyhunters](https://threatcluster.io/dark-web/group/shinyhunters) | 161 | 0 | 2026-09-24 |
 | [spacebears](https://threatcluster.io/dark-web/group/spacebears) | 160 | 54 | 2026-10-15 |
@@ -164,15 +164,14 @@ _165 active groups; top 150 by claimed victims._
 | [interlock](https://threatcluster.io/dark-web/group/interlock) | 152 | 57 | 2026-10-12 |
 | [pear](https://threatcluster.io/dark-web/group/pear) | 135 | 49 | 2026-10-14 |
 | [genesis](https://threatcluster.io/dark-web/group/genesis) | 133 | 37 | 2026-09-30 |
-| [medusalocker](https://threatcluster.io/dark-web/group/medusalocker) | 122 | 0 | 2026-10-05 |
-| [anubis](https://threatcluster.io/dark-web/group/anubis) | 119 | 101 | 2026-11-09 |
+| [medusalocker](https://threatcluster.io/dark-web/group/medusalocker) | 123 | 0 | 2026-10-05 |
+| [payoutsking](https://threatcluster.io/dark-web/group/payoutsking) | 119 | 0 | 2026-10-01 |
 | [arcusmedia](https://threatcluster.io/dark-web/group/arcusmedia) | 118 | 84 | 2026-10-09 |
-| [payoutsking](https://threatcluster.io/dark-web/group/payoutsking) | 117 | 0 | 2026-10-01 |
 | [toufan](https://threatcluster.io/dark-web/group/toufan) | 117 | 0 | 2023-12-27 |
 | [deadlock](https://threatcluster.io/dark-web/group/deadlock) | 115 | 36 |  |
 | [eldorado](https://threatcluster.io/dark-web/group/eldorado) | 112 | 0 | 2025-01-22 |
 | [braincipher](https://threatcluster.io/dark-web/group/braincipher) | 110 | 105 | 2026-07-22 |
-| [settra](https://threatcluster.io/dark-web/group/settra) | 105 | 0 | 2026-09-25 |
+| [settra](https://threatcluster.io/dark-web/group/settra) | 106 | 0 | 2026-09-25 |
 | [threeam](https://threatcluster.io/dark-web/group/threeam) | 100 | 0 | 2026-10-09 |
 | [chaos](https://threatcluster.io/dark-web/group/chaos) | 98 | 188 | 2026-10-09 |
 | [abyss](https://threatcluster.io/dark-web/group/abyss) | 91 | 53 | 2026-08-26 |
@@ -180,7 +179,7 @@ _165 active groups; top 150 by claimed victims._
 | [storm](https://threatcluster.io/dark-web/group/storm) | 89 | 0 |  |
 | [ransomexx](https://threatcluster.io/dark-web/group/ransomexx) | 86 | 11 | 2026-06-20 |
 | [auditteam](https://threatcluster.io/dark-web/group/auditteam) | 70 | 48 | 2026-08-27 |
-| [metaencryptor](https://threatcluster.io/dark-web/group/metaencryptor) | 66 | 85 | 2026-10-12 |
+| [metaencryptor](https://threatcluster.io/dark-web/group/metaencryptor) | 67 | 85 | 2026-10-12 |
 | [orova](https://threatcluster.io/dark-web/group/orova) | 65 | 0 |  |
 | [booba project](https://threatcluster.io/dark-web/group/booba%20project) | 64 | 16 |  |
 | [emperador](https://threatcluster.io/dark-web/group/emperador) | 60 | 72 |  |
@@ -190,7 +189,6 @@ _165 active groups; top 150 by claimed victims._
 | [gunra](https://threatcluster.io/dark-web/group/gunra) | 54 | 0 | 2026-09-04 |
 | [insomnia](https://threatcluster.io/dark-web/group/insomnia) | 53 | 48 | 2026-09-17 |
 | [ailock](https://threatcluster.io/dark-web/group/ailock) | 51 | 61 | 2026-08-26 |
-| [blacknevas](https://threatcluster.io/dark-web/group/blacknevas) | 48 | 1 | 2026-09-17 |
 | [panzer](https://threatcluster.io/dark-web/group/panzer) | 48 | 0 |  |
 | [wallstreet](https://threatcluster.io/dark-web/group/wallstreet) | 47 | 1 |  |
 | [m3rx](https://threatcluster.io/dark-web/group/m3rx) | 44 | 44 | 2026-09-29 |
@@ -202,8 +200,8 @@ _165 active groups; top 150 by claimed victims._
 | [crpxo](https://threatcluster.io/dark-web/group/crpxo) | 37 | 0 |  |
 | [moneymessage](https://threatcluster.io/dark-web/group/moneymessage) | 36 | 0 | 2026-09-21 |
 | [bravox](https://threatcluster.io/dark-web/group/bravox) | 35 | 0 | 2026-10-16 |
+| [majinahanashi](https://threatcluster.io/dark-web/group/majinahanashi) | 34 | 0 |  |
 | [dan0n](https://threatcluster.io/dark-web/group/dan0n) | 33 | 0 | 2024-08-23 |
-| [majinahanashi](https://threatcluster.io/dark-web/group/majinahanashi) | 30 | 0 |  |
 | [fulcrumsec](https://threatcluster.io/dark-web/group/fulcrumsec) | 29 | 30 | 2026-09-11 |
 | [l group](https://threatcluster.io/dark-web/group/l%20group) | 28 | 0 |  |
 | [vexy ransomware](https://threatcluster.io/dark-web/group/vexy%20ransomware) | 28 | 25 |  |
@@ -214,13 +212,13 @@ _165 active groups; top 150 by claimed victims._
 | [eclipse](https://threatcluster.io/dark-web/group/eclipse) | 23 | 10 |  |
 | [whitearmor](https://threatcluster.io/dark-web/group/whitearmor) | 22 | 0 |  |
 | [daixin](https://threatcluster.io/dark-web/group/daixin) | 21 | 53 | 2025-09-11 |
+| [doommageddon](https://threatcluster.io/dark-web/group/doommageddon) | 21 | 20 |  |
 | [shadowbyt3$](https://threatcluster.io/dark-web/group/shadowbyt3%24) | 21 | 23 | 2026-08-29 |
-| [doommageddon](https://threatcluster.io/dark-web/group/doommageddon) | 20 | 20 |  |
 | [kazu](https://threatcluster.io/dark-web/group/kazu) | 20 | 0 | 2026-09-07 |
 | [byod](https://threatcluster.io/dark-web/group/byod) | 19 | 0 |  |
 | [ralord](https://threatcluster.io/dark-web/group/ralord) | 19 | 2 | 2025-04-27 |
+| [barracuda](https://threatcluster.io/dark-web/group/barracuda) | 18 | 2 |  |
 | [alp-001](https://threatcluster.io/dark-web/group/alp-001) | 17 | 0 | 2026-04-08 |
-| [barracuda](https://threatcluster.io/dark-web/group/barracuda) | 17 | 2 |  |
 | [black x](https://threatcluster.io/dark-web/group/black%20x) | 17 | 0 |  |
 | [climax inc](https://threatcluster.io/dark-web/group/climax%20inc) | 17 | 0 |  |
 | [helix](https://threatcluster.io/dark-web/group/helix) | 17 | 17 |  |
@@ -233,12 +231,12 @@ _165 active groups; top 150 by claimed victims._
 | [icarus](https://threatcluster.io/dark-web/group/icarus) | 12 | 0 | 2026-06-23 |
 | [imncrew](https://threatcluster.io/dark-web/group/imncrew) | 12 | 0 | 2025-09-16 |
 | [scarlettgroup](https://threatcluster.io/dark-web/group/scarlettgroup) | 12 | 0 |  |
-| [blackwater](https://threatcluster.io/dark-web/group/blackwater) | 11 | 22 | 2026-08-24 |
 | [dysphor1a](https://threatcluster.io/dark-web/group/dysphor1a) | 11 | 0 |  |
+| [everstake](https://threatcluster.io/dark-web/group/everstake) | 10 | 6 |  |
 | [netrunner](https://threatcluster.io/dark-web/group/netrunner) | 10 | 14 | 2026-10-08 |
 | [redact](https://threatcluster.io/dark-web/group/redact) | 10 | 10 |  |
 | [umbra](https://threatcluster.io/dark-web/group/umbra) | 10 | 0 |  |
-| [everstake](https://threatcluster.io/dark-web/group/everstake) | 9 | 6 |  |
+| [curious worm](https://threatcluster.io/dark-web/group/curious%20worm) | 9 | 0 |  |
 | [leakbazaar](https://threatcluster.io/dark-web/group/leakbazaar) | 9 | 0 | 2026-05-09 |
 | [aoqin](https://threatcluster.io/dark-web/group/aoqin) | 8 | 0 |  |
 | [the seven deadly sins](https://threatcluster.io/dark-web/group/the%20seven%20deadly%20sins) | 8 | 8 |  |
@@ -289,6 +287,8 @@ _165 active groups; top 150 by claimed victims._
 | [bolt team](https://threatcluster.io/dark-web/group/bolt%20team) | 0 | 0 |  |
 | [contfr](https://threatcluster.io/dark-web/group/contfr) | 0 | 0 | 2026-04-22 |
 | [cyberleek](https://threatcluster.io/dark-web/group/cyberleek) | 0 | 0 |  |
+| [darkmatter](https://threatcluster.io/dark-web/group/darkmatter) | 0 | 0 |  |
+| [galago](https://threatcluster.io/dark-web/group/galago) | 0 | 0 |  |
 <!--/GROUPS-->
 
 
