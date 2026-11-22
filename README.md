@@ -46,10 +46,8 @@ a victim first appeared, when a post was delisted, or when a leak site went dark
 
 | File | Contents |
 |---|---|
-| [`data/victims.csv`](data/victims.csv) | Victims listed in the last **90 days** |
-| [`data/victims-365d.csv`](data/victims-365d.csv) | Victims listed in the last **365 days** |
-| [`data/victims-firstparty.csv`](data/victims-firstparty.csv) | **Only the rows we read off the leak site ourselves** (365 days) |
-| [`data/victims.json`](data/victims.json) | Last 30 days as JSON, same fields as the CSV (plus `website` where known) |
+| [`data/victims.csv`](data/victims.csv) | The latest victims from the last **7 days**, delayed 24 hours (up to 25 rows) |
+| [`data/victims.json`](data/victims.json) | The same window as JSON, same fields as the CSV (plus `website` where known) |
 | [`data/groups.csv`](data/groups.csv) | Every extortion group tracked: activity window, claimed-victim count, how many we verified first-hand, mirrors currently up |
 | [`data/onions.csv`](data/onions.csv) | Leak-site and underground `.onion` addresses, with our own up/down probe result |
 
@@ -58,20 +56,19 @@ a victim first appeared, when a post was delisted, or when a leak site went dark
 curl -s https://raw.githubusercontent.com/Jam0k/Ransomware-Intel/main/data/victims.csv
 ```
 
-The live API below is always current; these files lag by up to a day.
+**This free mirror covers the last 7 days, delayed 24 hours.** The 90- and 365-day snapshots
+were retired on 22 Nov 2026; the git history keeps every earlier snapshot. For the archive and
+real-time listings, use the ThreatCluster API (Starter and up): https://threatcluster.io/pricing
 
 ---
 
 ## Quick start
 
 ```bash
-# Victims, last 90 days (CSV)
+# Victims, last 7 days, 24 hours behind (CSV)
 curl https://threatcluster.io/api/darkweb/public/victims.csv
 
-# Same, full year
-curl "https://threatcluster.io/api/darkweb/public/victims.csv?days=365"
-
-# Same, JSON, 30 days
+# Same, JSON
 curl https://threatcluster.io/api/darkweb/public/victims.json
 
 # Groups and onion infrastructure
@@ -88,7 +85,8 @@ All endpoints are unauthenticated and rate-limited to 60 requests/minute.
 
 ## Victims
 
-`victims.csv` — `?days=` caps the window (default 90, max 365).
+`victims.csv` — without a key: the last 7 days, up to 25 rows, listing fields, 24 hours behind.
+History and real-time listings are on the API (Starter and up): https://threatcluster.io/pricing
 
 | Column | Meaning |
 |---|---|
