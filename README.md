@@ -4,7 +4,7 @@ Free, no-auth ransomware leak-site intelligence from [ThreatCluster](https://thr
 victims, groups, and the onion infrastructure behind them — snapshotted here daily so the git
 history is a timestamped record.
 
-**TLP:CLEAR** — free to use, redistribute, and integrate. Attribution appreciated.
+**TLP:CLEAR.** Free to use in your own environment and in non-commercial community defence work, with attribution to ThreatCluster. Redistributing this data as part of a commercial product or service requires a licence; see the [terms](https://threatcluster.io/terms).
 
 <!--STATS-->
 _Last updated: 2026-11-22 11:47 UTC_
