@@ -7,14 +7,14 @@ history is a timestamped record.
 **TLP:CLEAR.** Free to use in your own environment and in non-commercial community defence work, with attribution to ThreatCluster. Redistributing this data as part of a commercial product or service requires a licence; see the [terms](https://threatcluster.io/terms).
 
 <!--STATS-->
-_Last updated: 2026-11-22 11:47 UTC_
+_Last updated: 2026-11-22 14:51 UTC_
 
 | | |
 |---|---|
 | Ransomware groups tracked | **172** |
 | Victims in this snapshot (last 7 days, 24 hours behind) | **25** |
 | Of those, read first-hand from leak sites | **18** |
-| Onion addresses catalogued | **675** (91 confirmed up at last probe) |
+| Onion addresses catalogued | **675** (90 confirmed up at last probe) |
 | Known data breaches | **0** |
 <!--/STATS-->
 
@@ -214,8 +214,8 @@ _172 active groups; top 150 by claimed victims._
 | [morpheus](https://threatcluster.io/dark-web/group/morpheus) | 25 | 0 | 2026-10-01 |
 | [zawoo](https://threatcluster.io/dark-web/group/zawoo) | 25 | 0 |  |
 | [eclipse](https://threatcluster.io/dark-web/group/eclipse) | 24 | 11 |  |
+| [hyflock](https://threatcluster.io/dark-web/group/hyflock) | 24 | 0 |  |
 | [shadowbyt3$](https://threatcluster.io/dark-web/group/shadowbyt3%24) | 24 | 23 | 2026-08-29 |
-| [hyflock](https://threatcluster.io/dark-web/group/hyflock) | 23 | 0 |  |
 | [daixin](https://threatcluster.io/dark-web/group/daixin) | 22 | 53 | 2025-09-11 |
 | [doommageddon](https://threatcluster.io/dark-web/group/doommageddon) | 22 | 21 |  |
 | [barracuda](https://threatcluster.io/dark-web/group/barracuda) | 21 | 2 |  |
