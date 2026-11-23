@@ -1,26 +1,11 @@
 group,victim,country,sector,discovered,post_url,status,delisted_date,first_party
-lockbit5,genica.com.ve,VE,Other,2026-11-21,http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/173763f395b2808c3d77ea2730a56adc,listed,,yes
-barracuda,Dallas Fort Worth Fertility Associates,US,Healthcare,2026-11-21,http://qr6uopkqxmq254osyct3oibil32xp3qsimkkbqdscsrsb4zqbagnifad.onion/,listed,,no
-pear,Vegely Welding Inc.,US,Manufacturing,2026-11-21,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/vegelywelding,listed,,yes
-pear,"Law Office of Ronald D. Weiss, P.C",US,Professional Services,2026-11-21,http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/ny-bankruptcy,listed,,yes
-eclipse,Realta Technologies,IE,Technology,2026-11-21,http://eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion/place/94hzpk8ll562r5vr/,listed,,no
-inception,Lucid Motors,US,Manufacturing,2026-11-21,http://2xigbbzpbgtqvgjtqfcbv23gjyf6qq3br2ogmntfgwh2u5fanii7egid.onion/lucidmotors/,listed,,no
-vortex,"Caris Life Sciences - 25,032,356 records",US,Healthcare,2026-11-21,http://zyz6phauvraxghujxmecpwzlg34gtogybb4wzcmw6pvps5m2nzvsriid.onion/c/27,listed,,no
-whitearmor,"DROP 1 — CASANARE, PAJONAL, PUTUMAYO AND URUS — 8,000 PATIENTS, 4,000 INVOICES, 7,733 CRED...",CO,Healthcare,2026-11-20,http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion,listed,,no
-pixelleaks,"MT5 algo-trading farm (OneFunded funded account, WINSERVER)",,Financial Services,2026-11-20,http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion,listed,,yes
-pixelleaks,"bastion.internal domain controller (GCP, GRATEFUL-V1)",,Technology,2026-11-20,http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion,listed,,yes
-pixelleaks,"Aixia Group AB (Nasdaq-listed AI/IT, Sweden)",SE,Technology,2026-11-20,http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion,listed,,yes
-pixelleaks,"Kingsport Cargo (logistics, Laravel intranet)",,Transportation,2026-11-20,http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion,listed,,yes
-pixelleaks,"Arab Software Computer / ASCON (Oracle ERP hosting, Alexandria)",EG,Technology,2026-11-20,http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion,listed,,yes
-medusalocker,Lee Memorial Health System,US,Healthcare,2026-11-20,http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/lee-memorial/,listed,,no
-everest,FAST ČR,CZ,Government & Defense,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/fast-cr,listed,,yes
-everest,Alla France,FR,Other,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/alla-france,listed,,yes
-everest,ABL Bio,,Healthcare,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/abl-bio,listed,,yes
-everest,Vizrt,NO,Technology,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/vizrt,listed,,yes
-everest,ALKF,,,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/alkf,listed,,yes
-everest,Geesol,,Technology,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/geesol,listed,,yes
-everest,My American Alliance,,Other,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/my-american-alliance,listed,,yes
-everest,Accuver,,Technology,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/accuver,listed,,yes
-whitearmor,"DROP 1 — ALL FOUR CLINICS — 8,000 PATIENTS, 4,000 INVOICES, 7,733 CREDENTIALS",,Healthcare,2026-11-20,http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion,listed,,no
-dark project,VanMor,CA,Other,2026-11-20,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=vanmor,listed,,yes
-everest,KOWA,JP,Healthcare,2026-11-20,http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/kowa,listed,,yes
+incransom,persistent.com,IN,Technology,2026-11-22,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion,listed,,no
+direwolf,EconSys,,Technology,2026-11-22,http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/144,listed,,no
+hyflock,Samsung Group: 1TB Data Breach from Ransomware Attack,KR,Technology,2026-11-22,http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1795354909505240233_iHoVbG9s,listed,,no
+rhysida,Law Offices of Cynthia A. de Petris,US,Professional Services,2026-11-22,http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=311,listed,,no
+n0n,Dynamic Education Services,US,Education,2026-11-22,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion/leak/des,listed,,no
+hyflock,A Ransomware Attack on a Company Ranked Among the Top 30 in the Fortune 500,US,,2026-11-22,http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1795338359541631395_XYNdeJG1,delisted,2026-11-22,no
+endzone,"UCA General Insurance Services, Inc",PH,Financial Services,2026-11-22,http://endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion,listed,,yes
+hyflock,Data Breach at O&M University in the Dominican Republic,DO,Education,2026-11-22,http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1795330829178412509_ZiAuJXHm,listed,,no
+qilin,Invicta Watch Group,US,Retail & E-Commerce,2026-11-22,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8399e465-2f9b-492e-a016-c7f287442f3b,listed,,yes
+medusalocker,F5A,MF,Technology,2026-11-21,http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/baqayaj/,listed,,no
